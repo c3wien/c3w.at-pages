@@ -33,5 +33,5 @@ kommt einfach bei einem der Treffen vorbei.
 * Bei den Treffen einfach vorbeikommen: im [Metalab](https://metalab.at) 
 ([Rathausstraße 6, A-1010 Wien](https://www.openstreetmap.org/way/345700386)) <br/>
 * Mail: buero(@)c3w.at <br/>
-* offizielle Mailingliste: [https://lists.metalab.at/mailman/listinfo/ccc]() <br/>
+* offizielle [Mailingliste](https://lists.metalab.at/mailman/listinfo/ccc) <br/>
 * Krisennummer gibt es derzeit keine.
