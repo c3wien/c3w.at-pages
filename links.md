@@ -48,4 +48,5 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 
 * Chaos Radio [chaosradio.ccc.de](http://chaosradio.ccc.de/){:target="_blank"}
 * Chaos Radio Express [cre.fm](http://cre.fm/){:target="_blank"}
+* Chaos Talk Salzburg [Lets Netz](http://sbg.chaostreff.at/projects/letsnetz/){:target="_blank"}
 * Ö1 Digital Leben [oe1.orf.at/digitalleben](http://oe1.orf.at/digitalleben){:target="_blank"}
