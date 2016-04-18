@@ -34,4 +34,4 @@ kommt einfach bei einem der Treffen vorbei. Unsere [Statuten](/statuten/) kannst
 ([Rathausstraße 6, A-1010 Wien](https://www.openstreetmap.org/way/345700386)) <br/>
 * Mail: buero(@)c3w.at <br/>
 * offizielle [Mailingliste](https://lists.metalab.at/mailman/listinfo/ccc) <br/>
-* Krisennummer gibt es derzeit keine.
+* Krisennummer gibt es <strike>derzeit</strike> keine.
