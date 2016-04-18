@@ -25,7 +25,7 @@ Der Chaos Computer Club Wien wurde 2002 als *"Chaos Nahe Gruppe Wien (CNGW)"* ge
 # Mitgliedschaft
 Wir freuen uns auf Eure Kreativität und Unterstützung. Um dem C3W beizutreten<!--, 
 füllt bitte das [Formular]() aus und lasst es uns zukommen - oder, besser, -->
-kommt einfach bei einem der Treffen vorbei.
+kommt einfach bei einem der Treffen vorbei. Unsere [Statuten](/statuten/) kannst Du schon vorab einsehen.
 
 
 # Kontakt
