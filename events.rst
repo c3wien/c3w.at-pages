@@ -12,20 +12,21 @@ kommende Events
 
 April 2016
 ----------
-* 19.04.2016: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, 19h00, `Metalab Wien <http://metalab.at>`_ 
-* 22.-24.04.2016 BarCamp Graz, FH Johanneum Graz `BarCamp <http://barcamp-graz.at/>`_ 
+* 2016-04-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+* 2016-04-22/2016-04-24: `BarCamp Graz <http://barcamp-graz.at/>`_, FH Johanneum Graz
+* 2016-04-29/2016-04-30: `Grazer Linuxtage <http://www.linuxtage.at/>`_, FH Johanneum Graz 
 
 September 2016
 --------------
-* 08.09.2016 Internet Summit; `ISPA.at <https://www.ispa.at/news-events/internet-summit-austria.html>`_ 
+* 2016-09-08: `ISPA Internet Summit Austria <https://www.ispa.at/news-events/internet-summit-austria.html>`_ 
 
 Dezember 2016
 -------------
-* 27.-30.12.2016: 33C3, Congress Center Hamburg, Tickets ab Mitte November
+* 2016-12-27/2016-12.30: 33C3, Congress Center Hamburg, Tickets ab Mitte November
 
 April 2017
 ----------
-* 09.02.2017: Safer Internet Day
+* 2017-02-09: Safer Internet Day
 
 |
 
