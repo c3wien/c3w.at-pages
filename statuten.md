@@ -1,13 +1,11 @@
-<!-- 
 .. title: Statuten des Vereins Chaos Computer Club Wien (C3W)
-.. slug: index
+.. slug: statuten
 .. date: 2016-03-29 19:00:00 UTC+01:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
--->
 
 per 2016-03-29    
 
