@@ -12,17 +12,30 @@ kommende Events
 
 April 2016
 ----------
-* 2016-04-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-04-22/2016-04-24: `BarCamp Graz <http://barcamp-graz.at/>`_, FH Johanneum Graz
-* 2016-04-29/2016-04-30: `Grazer Linuxtage <http://www.linuxtage.at/>`_, FH Johanneum Graz 
+* 2016-04-25T19:00:00+02:00: `CryptoParty 42 <https://cryptoparty.at/>`_, AIT Techgate
+* 2016-04-28/2016-04-30: `Linuxwochen Wien 2016 <https://www.linuxwochen.at/Wien/>`_, FH Technikum Wien 
+* 2016-04-29/2016-04-30: `Grazer Linuxtage <https://www.linuxtage.at/>`_, FH Johanneum Graz 
+
+Mai 2016
+--------
+* 2016-05-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
+Juni 2016
+---------
+* 24-26. Chaos macht Schule Geekend im `Metalab Wien <http://metalab.at>`_
 
 September 2016
 --------------
 * 2016-09-08: `ISPA Internet Summit Austria <https://www.ispa.at/news-events/internet-summit-austria.html>`_ 
 
+Oktober 2016
+------------
+* 2016-10-15 `Internet Governance Forum Austria (IGF Austria) <https://www.igf-austria.at/>`_
+
 Dezember 2016
 -------------
-* 2016-12-27/2016-12.30: 33C3, Congress Center Hamburg, Tickets ab Mitte November
+* 2016-12-27/2016-12-30: 33C3, Congress Center Hamburg, Tickets ab Mitte November
 
 April 2017
 ----------
@@ -40,6 +53,7 @@ vergangene Events
 
 April 2016
 ----------
+* 2016-04-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 07: Netzpolitischer Abend, 19h30, Metalab Wien; `netzpolitischerabend <https://netzpolitischerabend.wordpress.com/>`_
 
 März 2016
