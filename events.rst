@@ -22,7 +22,7 @@ September 2016
 
 Dezember 2016
 -------------
-* 2016-12-27/2016-12.30: 33C3, Congress Center Hamburg, Tickets ab Mitte November
+* 2016-12-27/2016-12.30: 33C3, Congress Center Hamburg, Tickets möglicherweise ab Mitte November
 
 April 2017
 ----------
