@@ -5,7 +5,7 @@
 .. link:
 .. description:
 
-# Chaosnahe Hackerspaces und Vereine
+# Chaosnahe Hackspaces und Vereine
 
 Metalab Wien: [metalab.at](https://metalab.at/){:target="_blank"}
  [@MetalabVie](https://twitter.com/MetalabVie){:target="_blank"}
