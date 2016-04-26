@@ -27,6 +27,12 @@ September 2016
 --------------
 * 2016-09-08: `ISPA Internet Summit Austria <https://www.ispa.at/news-events/internet-summit-austria.html>`_ 
 
+Oktober 2016
+--------------
+* 2016-10-05 `Internet Governance Forum (IGF) Austria <https://www.igf-austria.at/teilnahme2016/>`_ 2016, Generalthema „Internet der Dinge“
+* 2016-10-20/2016-10-23: `Elevate Festival <https://elevate.at/>`_ - Musik, Kunst und Politischer Diskurs, Graz
+* 2016-10-25 `Big Brother Awards Gala 2016 <http://www.bigbrotherawards.at>`_
+
 Dezember 2016
 -------------
 * 2016-12-27/2016-12.30: 33C3, Congress Center Hamburg, Tickets möglicherweise ab Mitte November
