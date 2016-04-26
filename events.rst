@@ -19,6 +19,10 @@ Mai 2016
 * 2016-05-05T19:30:00+02:00: `6. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/2016/04/20/programm-des-6-netzpolitischen-abends-at-in-wien-am-5-mai-2016/>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-05-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
+Juni 2016
+----------
+* 2016-06-24/2016-06-26: `"Chaos macht Schule" (CmS) Geekend mit "Duisburg" in Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
 September 2016
 --------------
 * 2016-09-08: `ISPA Internet Summit Austria <https://www.ispa.at/news-events/internet-summit-austria.html>`_ 
