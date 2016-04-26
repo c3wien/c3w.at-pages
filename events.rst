@@ -12,18 +12,17 @@ kommende Events
 
 April 2016
 ----------
-* 2016-04-22/2016-04-24: `BarCamp Graz <http://barcamp-graz.at/>`_, FH Johanneum Graz
-* 2016-04-25T19:00:00+02:00: `CryptoParty 42 <https://cryptoparty.at/>`_, AIT Techgate
 * 2016-04-28/2016-04-30: `Linuxwochen Wien 2016 <https://www.linuxwochen.at/Wien/>`_, FH Technikum Wien 
 * 2016-04-29/2016-04-30: `Grazer Linuxtage <https://www.linuxtage.at/>`_, FH Johanneum Graz 
 
 Mai 2016
 --------
+* 2016-05-05T19:30:00+02:00: `6. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/2016/04/20/programm-des-6-netzpolitischen-abends-at-in-wien-am-5-mai-2016/>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-05-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Juni 2016
----------
-* 24-26. Chaos macht Schule Geekend im `Metalab Wien <http://metalab.at>`_
+----------
+* 2016-06-24/2016-06-26: `"Chaos macht Schule" (CmS) Geekend mit "Duisburg" in Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 September 2016
 --------------
@@ -31,11 +30,13 @@ September 2016
 
 Oktober 2016
 ------------
-* 2016-10-15 `Internet Governance Forum Austria (IGF Austria) <https://www.igf-austria.at/>`_
+* 2016-10-05 `Internet Governance Forum (IGF) Austria <https://www.igf-austria.at/teilnahme2016/>`_ 2016, Generalthema „Internet der Dinge“
+* 2016-10-20/2016-10-23: `Elevate Festival <https://elevate.at/>`_ - Musik, Kunst und Politischer Diskurs, Graz
+* 2016-10-25 `Big Brother Awards Gala 2016 <http://www.bigbrotherawards.at>`_
 
 Dezember 2016
 -------------
-* 2016-12-27/2016-12-30: 33C3, Congress Center Hamburg, Tickets ab Mitte November
+* 2016-12-27/2016-12.30: 33C3, Congress Center Hamburg, Tickets möglicherweise ab Mitte November
 
 April 2017
 ----------
@@ -53,6 +54,7 @@ vergangene Events
 
 April 2016
 ----------
+* 2016-04-22/2016-04-24: `BarCamp Graz <http://barcamp-graz.at/>`_, FH Johanneum Graz
 * 2016-04-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 07: Netzpolitischer Abend, 19h30, Metalab Wien; `netzpolitischerabend <https://netzpolitischerabend.wordpress.com/>`_
 

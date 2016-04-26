@@ -5,7 +5,7 @@
 .. link:
 .. description:
 
-# Chaosnahe Hackerspaces und Vereine
+# Chaosnahe Hackspaces und Vereine
 
 Metalab Wien: [metalab.at](https://metalab.at/){:target="_blank"}
  [@MetalabVie](https://twitter.com/MetalabVie){:target="_blank"}
@@ -39,6 +39,8 @@ CCC e.V. [ccc.de](https://ccc.de/){:target="_blank"}
 Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit elektronischen Medien ein, betrachtet Risiken und Nebenwirkungen der elektronischen Kommunikation und fördert die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung. Gemeinsam mit Informationen zu Veranstaltungen soll diese Seite einen Überblick über Ressourcen im Netz bieten.
 
 * Arbeitskreis Vorratsdaten [AK Vorrat.at](https://akvorrat.at/){:target="_blank"} [@AKVorrat_at](https://twitter.com/AKVorrat_at){:target="_blank"}
+* Initiative für Netzfreiheit [netzfreiheit.org](https://netzfreiheit.org/){:target="_blank"}
+* quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter [quintessenz.at](http://quintessenz.at){:target="_blank"}
 * [Open Knowledge Austria OKFN](http://okfn.at/){:target="_blank"}
 * [Open Data Portal Österreich ODP](https://www.opendataportal.at){:target="_blank"}
 * [Plattform Digitales Österreich (PDÖ)](https://www.digitales.oesterreich.gv.at){:target="_blank"}
