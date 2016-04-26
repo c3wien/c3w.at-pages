@@ -12,9 +12,12 @@ kommende Events
 
 April 2016
 ----------
-* 2016-04-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-* 2016-04-22/2016-04-24: `BarCamp Graz <http://barcamp-graz.at/>`_, FH Johanneum Graz
 * 2016-04-29/2016-04-30: `Grazer Linuxtage <http://www.linuxtage.at/>`_, FH Johanneum Graz 
+
+Mai 2016
+----------
+* 2016-05-05T19:30:00+02:00: `6. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/2016/04/20/programm-des-6-netzpolitischen-abends-at-in-wien-am-5-mai-2016/>`_, `Metalab Wien <http://metalab.at>`_
+* 2016-05-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 September 2016
 --------------
@@ -40,6 +43,8 @@ vergangene Events
 
 April 2016
 ----------
+* 2016-04-22/2016-04-24: `BarCamp Graz <http://barcamp-graz.at/>`_, FH Johanneum Graz
+* 2016-04-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 07: Netzpolitischer Abend, 19h30, Metalab Wien; `netzpolitischerabend <https://netzpolitischerabend.wordpress.com/>`_
 
 März 2016
