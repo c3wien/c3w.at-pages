@@ -22,7 +22,6 @@ Wir betrachten die Entwicklungen zum Thema "Bundestrojaner" (oder wie die Softwa
 
 # Chaos macht Schule
 Das in CCC-Kreisen bereits sehr erfolgreiche Projekt 
-"[Chaos macht Schule](https://ccc.de/schule){:target="_blank"}" wollen wir nach 
+"[Chaos macht Schule](/schule)" wollen wir nach 
 Wien holen. Dazu sind wir im Austausch mit Chaostreffs, die in dem Bereich 
-aktiv sind und aktiv an Schulen auf Lehrer, Schülern und Eltern zugehen. <br/>
-Stay tuned!
+aktiv sind und aktiv an Schulen auf Lehrer, Schülern und Eltern zugehen.
