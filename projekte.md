@@ -1,5 +1,5 @@
 .. title: Aktuelles / Projekte
-.. slug: aktuelles
+.. slug: projekte
 .. date: 1970-01-01 00:00:00 UTC
 .. tags:
 .. link:
@@ -18,7 +18,10 @@ gemeldet.<!-- Unsere Stellungnahme zur Digital Roadmap sowie der dazugehörigen
 Plattform findet Ihr im <a href="/presse">Pressebereich</a>.-->
 
 # Bundestrojaner
-Wir betrachten die Entwicklungen zum Thema "Bundestrojaner" (oder wie die Software am Ende tatsächlich heißen wird) kritisch und werden hierzu Stellung nehmen, sobald wir nähere Informationen dazu liefern können. Stay tuned!
+Der Chaos Computer Club Wien (C3W) hat in Zusammenarbeit mit dem 
+Chaos Computer Club e.V. (CCC e.V.) zum Entwurf des Bundesministeriums für Justiz "(192/ME XXV. GP)" eine 
+[ausführliche Stellungnahme](link://slug/192ME_stellungnahme_staatstrojaner) 
+abgegeben. 
 
 # Chaos macht Schule
 Das in CCC-Kreisen bereits sehr erfolgreiche Projekt 

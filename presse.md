@@ -8,6 +8,11 @@
 
 # 2016
 
+## 13. Mai 2016
+Futurezone.at - [Massive Kritik am Staatstrojaner: "Kein praktischer Nutzen"](https://futurezone.at/netzpolitik/massive-kritik-am-staatstrojaner-kein-praktischer-nutzen/198.525.164){:target="_blank"}
+
+Der Standard - [Bundestrojaner könnte Unschuldige überwachen und "Leben bedrohen"](https://derstandard.at/2000036862220/Bundestrojaner-koennte-Unschuldige-ueberwachen-und-Leben-bedrohen){:target="_blank"}
+
 ## 21. April 2016
 FM4 Burstup - [Verschlüsselung verbieten?](http://fm4.orf.at/stories/1769506/){:target="_blank"}
 
