@@ -12,4 +12,4 @@ Nach der Reaktivierung des Chaos Computer Clubs in Wien wird das Projekt nun auc
 Darüber hinaus wird es auch technische Projekte im Bereich Hardware und Software geben, die in Form von Workshops angeboten werden.
 
 Eine detailierte Auflistung der angebotenen Inhalte erfolgt demnächst.<br/>
-Wer Interesse hat am Projekt mitzuwirken, sollte zum nächsten [C3W-Treffen (2016-05-17 im Metalab Wien)](https://metalab.at/wiki/CCC_Wien){:target="_blank"} kommen.
+Wer Interesse hat am Projekt mitzuwirken, kann sich per email an das Projektteam unter schule (at) c3w punkt at sowie sollte zum nächsten [C3W-Treffen im Metalab Wien](https://metalab.at/wiki/CCC_Wien){:target="_blank"} kommen.
