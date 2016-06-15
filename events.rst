@@ -1,4 +1,4 @@
-.. link:
+
 .. description:
 .. tags: Events
 .. date: 2016/04/07 16:22:53
@@ -13,7 +13,7 @@ kommende Events
 Juni 2016
 ----------
 * 2016-06-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-* 2016-06-24/2016-06-26: `"Chaos macht Schule" (CmS) Geekend mit "Duisburg" in Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+* 2016-06-24/2016-06-26: `"Chaos macht Schule" (CmS) Geekend mit "Duisburch" in Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Juli 2016
 ----------
