@@ -8,6 +8,9 @@
 
 # 2016
 
+## 31. Mai 2016
+science.apa.at - ["Das Internet ist keine fiktive Welt, die unabhängig von uns existiert"](https://science.apa.at/dossier/Das_Internet_ist_keine_fiktive_Welt_die_unabhaengig_von_uns_existiert/SCI_20160531_SCI68193831229950570){:target="_blank"}
+
 ## 13. Mai 2016
 Futurezone.at - [Massive Kritik am Staatstrojaner: "Kein praktischer Nutzen"](https://futurezone.at/netzpolitik/massive-kritik-am-staatstrojaner-kein-praktischer-nutzen/198.525.164){:target="_blank"}
 
