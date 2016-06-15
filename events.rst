@@ -10,26 +10,40 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Mai 2016
---------
-* 2016-05-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-
 Juni 2016
 ----------
+* 2016-06-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-06-24/2016-06-26: `"Chaos macht Schule" (CmS) Geekend mit "Duisburg" in Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
+Juli 2016
+----------
+* 2016-07-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
+August 2016
+-----------
+* 2016-08-16T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 September 2016
 --------------
+* 2016-05-05T19:30:00+02:00: `8. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-09-08: `ISPA Internet Summit Austria <https://www.ispa.at/news-events/internet-summit-austria.html>`_ 
+* 2016-08-20T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Oktober 2016
 ------------
 * 2016-10-05 `Internet Governance Forum (IGF) Austria <https://www.igf-austria.at/teilnahme2016/>`_ 2016, Generalthema „Internet der Dinge“
+* 2016-10-18T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-10-20/2016-10-23: `Elevate Festival <https://elevate.at/>`_ - Musik, Kunst und Politischer Diskurs, Graz
+* 2016-10-24/2016-10-31: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre im digitalen Zeitalter.
 * 2016-10-25 `Big Brother Awards Gala 2016 <http://www.bigbrotherawards.at>`_
+
+November 2016
+-------------
+* 2016-11-15T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Dezember 2016
 -------------
+* 2016-12-12T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-12-27/2016-12.30: 33C3, Congress Center Hamburg, Tickets möglicherweise ab Mitte November
 
 April 2017
@@ -47,6 +61,7 @@ vergangene Events
 
 Mai 2016
 --------
+* 2016-05-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-05-05T19:30:00+02:00: `6. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/2016/04/20/programm-des-6-netzpolitischen-abends-at-in-wien-am-5-mai-2016/>`_, `Metalab Wien <http://metalab.at>`_
 
 April 2016
