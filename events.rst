@@ -10,18 +10,13 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Juni 2016
-----------
-* 2016-06-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-* 2016-06-24/2016-06-26: `"Chaos macht Schule" (CmS) Geekend mit "Duisburch" in Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-
-Juli 2016
-----------
-* 2016-07-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 August 2016
 -----------
-* 2016-08-16T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+* 2016-08-16T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, !!! ACHTUNG !!!! Änderung der Lokation! `BIRDHOUSE Besprechungsraum, Auerspergstraße 17, 1080 Wien <http://www.nest.agency/portfolio/birdhouse/>`_
+* 2016-08-18/2016-08-21: `Camp++ 0x7e0 <https://elevate.at/>`_ - Camp++, the next H.A.C.K. camp, Fort Monostor, Komárom, Hungary
+* 2016-08-23T18:00:00+02:00: `SSH_Workshop_für_Einsteiger*innen_ im Rahmen der „Radical Server Unit“ <https://metalab.at/wiki/Radical_Server_Unit#Treffen_am_23.08.2016.2C_18:00>`_, `Metalab Wien <http://metalab.at>`_
+
 
 September 2016
 --------------
@@ -58,6 +53,15 @@ April 2017
 
 vergangene Events
 =================
+
+Juli 2016
+----------
+* 2016-07-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
+Juni 2016
+----------
+* 2016-06-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+* 2016-06-24/2016-06-26: `"Chaos macht Schule" (CmS) Geekend mit "Duisburch" in Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Mai 2016
 --------
