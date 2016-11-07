@@ -9,6 +9,8 @@
 
 *Die [Privacy Week](https://privacyweek.at/) ist eine Veranstaltungsreihe des „Chaos Computer Club Wien (C3W) in der letzten Oktoberwoche 2016.*
 
+[![Privacy Week Vienna - eine Veranstaltungsreihe zum Thema Privatsphäre. ](/files/images/pw.png "")](https://privacyweek.at/)
+
 Vorratsdatenspeicherung, Videoüberwachung, PRISM, Zugriff auf Konten ohne richterliche Kontrolle, Smart Meter, Änderungen im Staatspolizeigesetz und andere Maßnahmen im staatlichen Bereich und durch Privatunternehmen bedrohen unsere Privatsphäre und die Grundrechte.
 
 *Wir denken: Aufklärung und Wissen hilft.*
