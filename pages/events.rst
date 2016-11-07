@@ -18,22 +18,22 @@ November 2016
 
 Dezember 2016
 -------------
-* 2016-05-05T19:30:00+01:00: `11. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/`_, `Metalab Wien <http://metalab.at>`_
+* 2016-05-05T19:30:00+01:00: `11. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-12-12T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-12-27/2016-12-30: `33C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Hamburg; `Infos zum Ticketverkauf <https://events.ccc.de/2016/10/16/33c3-tickets-status-und-freier-verkauf/>`_
 
 Jänner 2017
-----------
+-----------
 * 2017-01-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2017-01-28: `EU Data Protection Day <https://www.coe.int/t/dghl/standardsetting/dataprotection/Data_protection_day_en.asp>`_
 
 Februar 2017
-----------
+------------
 * 2017-02-07: `Safer Internet Day <https://www.saferinternet.at/saferinternetday/>`_
 * 2017-02-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 März 2017
-----------
+---------
 * 2017-03-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 April 2017
@@ -44,33 +44,33 @@ April 2017
 * 2017-04-28/2017-04-29: `Linuxtage Graz <https://linuxtage.at/>`_, FH Joanneum Graz
 
 Mai 2017
-----------
+--------
 * 2017-05-04/2017-05-06: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, tbd
 * 2017-05-25/2017-05-28: `Gulaschprogrammiernacht 17 <https://entropia.de/GPN17>`_, Karlsruhe
 * 2017-05-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Juni 2017
-----------
+---------
 * 2017-06-16/2017-06-18: `Chaos Singularity (CoSin) <https://www.cosin.ch/de/>`_, Villa Ritter in Biel (CH)
 * 2017-06-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Juli 2017
-----------
+---------
 * 2017-07-06/2017-07-09: `Camp++ 0x7e1 <https://camp.hsbp.org/2017/pp7e1>`_, Fort Monostor, Komárom, Hungary
 * 2017-07-18T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 August 2017
-----------
+-----------
 * 2017-08-04/2017-08-08: `SHA2017 <https://sha2017.org/>`_,  Scoutinglandgoed in Zeewolde, 55km east of Amsterdam, The Netherlands
 * 2017-08-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 September 2017
-----------
+--------------
 * 2017-09-15/2017-09-17: `BalCCon2k17 <https://www.balccon.org/>`_, Novi Sad, Serbia
 * 2017-09-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Oktober 2017
-----------
+------------
 * 2017-10-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
 * 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
