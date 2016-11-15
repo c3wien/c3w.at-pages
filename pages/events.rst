@@ -12,13 +12,11 @@ kommende Events
 
 November 2016
 -------------
-* 2016-11-12: `BSidesVienna 2017 <http://bsidesvienna.at/>`_, Technische Universität Wien (TU), Karlsplatz 13,, 1040 Vienna, Main building, second floor, Stiege VII, HS13
-* 2016-11-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-11-29T19:00:00+01:00: `CryptoParty 48 <https://cryptoparty.at/>`_, tbd.
 
 Dezember 2016
 -------------
-* 2016-05-05T19:30:00+01:00: `11. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/>`_, `Metalab Wien <http://metalab.at>`_
+* 2016-12-01T19:30:00+01:00: `11. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-12-12T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-12-27/2016-12-30: `33C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Hamburg; `Infos zum Ticketverkauf <https://events.ccc.de/2016/10/16/33c3-tickets-status-und-freier-verkauf/>`_
 
@@ -83,6 +81,11 @@ Oktober 2017
 
 vergangene Events
 =================
+
+November 2016
+-------------
+* 2016-11-12: `BSidesVienna 2017 <http://bsidesvienna.at/>`_, Technische Universität Wien (TU), Karlsplatz 13,, 1040 Vienna, Main building, second floor, Stiege VII, HS13
+* 2016-11-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Oktober 2016
 ------------
