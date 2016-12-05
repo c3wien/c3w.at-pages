@@ -17,7 +17,7 @@ November 2016
 Dezember 2016
 -------------
 * 2016-12-01T19:30:00+01:00: `11. Netzpolitischer Abend AT in Wien <https://netzpolitischerabend.wordpress.com/>`_, `Metalab Wien <http://metalab.at>`_
-* 2016-12-12T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+* 2016-12-13T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2016-12-27/2016-12-30: `33C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Hamburg; `Infos zum Ticketverkauf <https://events.ccc.de/2016/10/16/33c3-tickets-status-und-freier-verkauf/>`_
 
 Jänner 2017
