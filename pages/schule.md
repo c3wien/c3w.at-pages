@@ -34,14 +34,11 @@ Viele Eltern haben erkannt, daß sie ihren Kindern nur dann Halt bieten können,
 
 Inhaltlich geht es bei Eltern um die selben Themengebiete, die auch in den Schülerveranstaltungen besprochen werden.Meist findet die Veranstaltung in Form eines einleitenden Vortrags statt, der die digitale Lebenswelt der Schüler darstellt – teilweise live in einem ersten, geführten Kontakt mit sozialen Netzwerken. Es werden Vor- und Nachteile aufgezeigt, Problemfelder benannt und Lösungsvorschläge diskutiert. Im Anschluß findet dann eine offene Fragerunde und Diskussion statt.
 
-## Veranstaltungen mit Lehrern
+## Veranstaltungen mit Lehrer_Innen
 Die oben beschriebene Problematik der Eltern trifft teilweise auch auf Lehrende zu. Viele von ihnen haben ihre Ausbildung lang vor der Einführung eines EDV-Unterrichts abgeschlossen und sehen sich gegenüber ihren Schüler_Innen unter den selben Problemzwängen. Das Angebot an Eltern gilt daher sinngemäß auch an sie, wenn sie ihre digitale Kompetenz gegenüber den Kindern und Jugendlichen verbessern wollen.
 
-Falls Sie mit der Lehreraus- und fortbildung zu tun haben, und wir nun Ihr Interesse geweckt haben, zögern Sie nicht, [uns zu kontaktieren.](mailto:schule@c3w.at)
 
-## Kosten
-Wir arbeiten ausschließlich ehrenamtlich, dadurch entstehen weder den Schülern, noch den Eltern oder den jeweiligen Schulen irgendwelche Kosten. Wir benötigen lediglich einen Stromanschluss, ein wenig Zeit sowie etwas Engagement von Seiten der Schule. 
-
+## Kontakt
 Wenn wir jetzt Ihr Interesse geweckt haben zögern Sie nicht, [uns zu kontaktieren.](mailto:schule@c3w.at)
 
 Weitere Informationen finden Sie auch in unserem [Wiki](https://projekte.c3w.at/chaos_macht_schule).
