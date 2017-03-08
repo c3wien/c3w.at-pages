@@ -10,16 +10,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Jänner 2017
------------
-* 2017-01-28: `EU Data Protection Day <https://www.coe.int/t/dghl/standardsetting/dataprotection/Data_protection_day_en.asp>`_
-* 2017-01-31T18:00:00+01:00: `Radical Server Unit Vienna (RSUV) #11 - Selfhosting & Strafrecht <https://metalab.at/wiki/RSUV>`_,  `Metalab Wien <http://metalab.at>`_
-
-Februar 2017
-------------
-* 2017-02-07: `Safer Internet Day <https://www.saferinternet.at/saferinternetday/>`_
-* 2017-02-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-
 März 2017
 ---------
 * 2017-03-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
@@ -72,9 +62,16 @@ Oktober 2017
 vergangene Events
 =================
 
+Februar 2017
+------------
+* 2017-02-07: `Safer Internet Day <https://www.saferinternet.at/saferinternetday/>`_
+* 2017-02-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
 Jänner 2017
 -----------
 * 2017-01-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Museumsquartier, Raum D (OpenStreetMap) <https://www.openstreetmap.org/?mlat=48.20435&mlon=16.35815#map=18/48.20435/16.35815>`_
+* 2017-01-28: `EU Data Protection Day <https://www.coe.int/t/dghl/standardsetting/dataprotection/Data_protection_day_en.asp>`_
+* 2017-01-31T18:00:00+01:00: `Radical Server Unit Vienna (RSUV) #11 - Selfhosting & Strafrecht <https://metalab.at/wiki/RSUV>`_,  `Metalab Wien <http://metalab.at>`_
 
 Dezember 2016
 -------------
