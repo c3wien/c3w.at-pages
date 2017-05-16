@@ -10,16 +10,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-April 2017
-----------
-* 2017-04-28/2017-04-29: `Linuxtage Graz <https://linuxtage.at/>`_, FH Joanneum Graz
-
-Mai 2017
---------
-* 2017-05-04/2017-05-06: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, tbd
-* 2017-05-25/2017-05-28: `Gulaschprogrammiernacht 17 <https://entropia.de/GPN17>`_, Karlsruhe
-* 2017-05-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-
 Juni 2017
 ---------
 * 2017-06-16/2017-06-18: `Chaos Singularity (CoSin) <https://www.cosin.ch/de/>`_, Villa Ritter in Biel (CH)
@@ -55,11 +45,18 @@ Oktober 2017
 vergangene Events
 =================
 
+Mai 2017
+--------
+* 2017-05-04/2017-05-06: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, tbd
+* 2017-05-25/2017-05-28: `Gulaschprogrammiernacht 17 <https://entropia.de/GPN17>`_, Karlsruhe
+* 2017-05-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
 April 2017
 ----------
 * 2017-04-14/2017-04-17: `Easterhegg <https://eh17.easterhegg.eu/dev/Random>`_, Mühlheim am Main (Frankfurt)
 * 2017-04-18T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2017-04-20/2017-04-21: `Linuxwochen Eisenstadt <https://www.linuxwochen.at/linuxwochen-eisenstadt-summary>`_, Fachhochschule Burgenland in Eisenstadt
+* 2017-04-28/2017-04-29: `Linuxtage Graz <https://linuxtage.at/>`_, FH Joanneum Graz
 
 März 2017
 ---------
