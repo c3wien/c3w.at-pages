@@ -8,7 +8,7 @@
 
 &nbsp;
 
-## Unsicherheit trifft jeden
+## unsichere Systeme treffen jeden
 
 Ransomware, also Erpressungstrojaner, sind eine zunehmende Gefahr für die 
 gesamte Bevölkerung, da von der sich verbreitenden Malware alle betroffen 
