@@ -20,4 +20,4 @@ Wenn darüber hinaus in den Erläutungen zu dem Ministerialentwurf im Rahmen der
 Eine Verbesserung der bestehenden Regelung setzt voraus, dass je nach Bedarfsfall und unter Kontrolle der Nutzerinnen und Nutzer, ausschließlich zwingend notwendige Informationen übermittelt werden. Dazu gehört auch, dass Nutzerinnen und Nutzer nach eigenem Entscheiden anonym, pseudonym, identifiziert oder autorisiert auftreten können. Daten, die für den jeweiligen Anwendungsfall nicht benötigt werden, dürfen keinesfalls gespeichert, abgefragt oder übermittelt werden („need to know“)
 
 * [Vollständige Stellungnahme](link:///files/publications/202205_316_ME_Stellungnahme_egov.pdf){:target="_blank"} (pdf, 8 Seiten)
-
+* Stellungnahme des C3W auf [parlament.gv.at](https://www.parlament.gv.at/PAKT/VHG/XXV/SNME/SNME_12186/index.shtml){:target="_blank"}
