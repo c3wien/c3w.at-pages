@@ -6,6 +6,32 @@
 .. link:
 .. description:
 
+# 2017
+
+## [Stellungnahme zur E-ID](link://slug/316ME_stellungnahme_e-id)
+
+Mit dem "Bundesgesetz, mit dem das E-Government-Gesetz geändert wird" (316/ME), soll die "Bürgercard" durch den "E-ID" ersetzt und erweitert werden.
+
+Der vorliegende Ministerialentwurf enstpricht eindeutig nicht den europäischen Grundwerten und wirkt wie der Versuch, das Schutzniveau der kommenden Datenschutzgrundverordnung kurz vor deren Inkrafttreten zu unterlaufen, sowie staatsnahen Unternehmen neue Geschäftsfelder zu eröffnen.
+
+Eine Abschätzung von Auswirkungen und Risiken für unsere demokratische Gesellschaft fehlt ebenso wie eine Abschätzung der mit einer Umsetzung verbundenen technischen Risiken.
+
+Der Chaos Computer Club Wien (C3W) hat hierzu eine Stellungnahme abgegeben:
+
+* [Weiter Lesen](link://slug/316ME_stellungnahme_e-id)
+
+
+## Für eine zeitgemäße digitale Bildung
+Ein Forderungskatalog des Chaos Computer Club
+
+
+
+Unsere Kinder lernen in der Schule zu wenig über Technik und wie man mit ihr umgehen sollte. Der Chaos Computer Club Wien präsentierte im Rahmen des Open Common Kongress 2017 in Linz seine Überlegungen für eine zeitgemäße digitale Bildung. Diese basieren auf den Forderungen des deutschen Chaos Computer Club e.V. (CCC), die auf der re:publica 2017 in Berlin vorgestellt wurden.
+
+* [Weiter Lesen](link://slug/digitale_bildung)
+
+
+
 # 2016
 
 ## [Stellungnahme zum Staatstrojaner](link://slug/192ME_stellungnahme_staatstrojaner)
