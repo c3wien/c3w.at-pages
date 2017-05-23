@@ -48,8 +48,8 @@ vergangene Events
 Mai 2017
 --------
 * 2017-05-04/2017-05-06: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, tbd
-* 2017-05-25/2017-05-28: `Gulaschprogrammiernacht 17 <https://entropia.de/GPN17>`_, Karlsruhe
 * 2017-05-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+* 2017-05-25/2017-05-28: `Gulaschprogrammiernacht 17 <https://entropia.de/GPN17>`_, Karlsruhe
 
 April 2017
 ----------
