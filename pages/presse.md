@@ -7,6 +7,16 @@
 
 # 2017
 
+## 29. Mai 2017
+Wiener Zeitung - ["Fortschreitender Überwachungsstaat"](http://www.wienerzeitung.at/nachrichten/oesterreich/politik/894857_Fortschreitender-Ueberwachungsstaat.html){:target="_blank"}
+
+## 29. Mai 2017
+Ö1-Morgenjournal - *Elektronischer Identitätsausweis: totale Überwachung?*
+
+## 25. Mai 2017
+Der Standard/APA
+ - [Elektronische ID: Datenschützer fürchten Grundrechtsverstöße](https://derstandard.at/2000058242286/Elektronische-ID-Datenschuetzer-fuerchten-Grundrechtsverstoesse){:target="_blank"}
+
 ## 23. Mai 2017
 Futurezone.at - [E-ID: Datenschutz-Kritik am neuen, elektronischen Ausweis](https://futurezone.at/netzpolitik/e-id-datenschutz-kritik-am-neuen-elektronischen-ausweis/265.596.779){:target="_blank"}
 

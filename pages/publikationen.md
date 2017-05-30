@@ -12,7 +12,7 @@
 
 Mit dem "Bundesgesetz, mit dem das E-Government-Gesetz geändert wird" (316/ME), soll die "Bürgercard" durch den "E-ID" ersetzt und erweitert werden.
 
-Der Ministerialentwurf enstpricht eindeutig nicht den europäischen Grundwerten und wirkt wie der Versuch, das Schutzniveau der kommenden Datenschutzgrundverordnung kurz vor deren Inkrafttreten zu unterlaufen.
+Der Ministerialentwurf entspricht eindeutig nicht den europäischen Grundwerten und wirkt wie der Versuch, das Schutzniveau der kommenden Datenschutzgrundverordnung kurz vor deren Inkrafttreten zu unterlaufen.
 
 Eine Abschätzung von Auswirkungen und Risiken für unsere demokratische Gesellschaft fehlt ebenso wie eine Abschätzung der mit einer Umsetzung verbundenen technischen Risiken.
 

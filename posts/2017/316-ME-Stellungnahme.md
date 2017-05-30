@@ -10,12 +10,12 @@
 
 Mit dem "Bundesgesetz, mit dem das E-Government-Gesetz geändert wird" (316/ME), soll die "Bürgercard" durch den "E-ID" ersetzt und erweitert werden.
 
-Der vorliegende Ministerialentwurf enstpricht eindeutig nicht den europäischen Grundwerten und wirkt wie der Versuch, das Schutzniveau der kommenden Datenschutzgrundverordnung kurz vor deren Inkrafttreten zu unterlaufen, sowie staatsnahen Unternehmen neue Geschäftsfelder zu eröffnen.
+Der vorliegende Ministerialentwurf entspricht eindeutig nicht den europäischen Grundwerten und wirkt wie der Versuch, das Schutzniveau der kommenden Datenschutzgrundverordnung kurz vor deren Inkrafttreten zu unterlaufen, sowie staatsnahen Unternehmen neue Geschäftsfelder zu eröffnen.
 
 Eine Abschätzung von Auswirkungen und Risiken für unsere demokratische Gesellschaft fehlt ebenso wie eine Abschätzung der mit einer Umsetzung verbundenen technischen Risiken.
 
 <!-- TEASER_END -->
-Wenn darüber hinaus in den Erläutungen zu dem Ministerialentwurf im Rahmen der „vertrauenswürdigen, zentralen Stelle“ gleich von der „Stammzahlenregisterbehörde bzw. bei einem ihrer Dienstleister“ gesprochen wird, deutet dies darauf hin, dass die Überwachungsbehörde in dem Zug gleich wirtschaftsfreundlich auf den freien Markt ausgelagert wird.
+Wenn darüber hinaus in den Erläuterungen zu dem Ministerialentwurf im Rahmen der „vertrauenswürdigen, zentralen Stelle“ gleich von der „Stammzahlenregisterbehörde bzw. bei einem ihrer Dienstleister“ gesprochen wird, deutet dies darauf hin, dass die Überwachungsbehörde in dem Zug gleich wirtschaftsfreundlich auf den freien Markt ausgelagert wird.
 
 Eine Verbesserung der bestehenden Regelung setzt voraus, dass je nach Bedarfsfall und unter Kontrolle der Nutzerinnen und Nutzer, ausschließlich zwingend notwendige Informationen übermittelt werden. Dazu gehört auch, dass Nutzerinnen und Nutzer nach eigenem Entscheiden anonym, pseudonym, identifiziert oder autorisiert auftreten können. Daten, die für den jeweiligen Anwendungsfall nicht benötigt werden, dürfen keinesfalls gespeichert, abgefragt oder übermittelt werden („need to know“)
 
