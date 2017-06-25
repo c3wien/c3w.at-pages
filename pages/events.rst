@@ -32,7 +32,7 @@ September 2017
 Oktober 2017
 ------------
 * 2017-10-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-* 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
+* 2017-10-23/2017-10-29: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre geht uns alle an.
 * 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
 
 |
