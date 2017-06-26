@@ -7,6 +7,9 @@
 
 # 2017
 
+## 26. Juni 2017
+Futurezone.at - [Datenschutz-Verordnung: Umsetzung „besorgniserregend“](https://futurezone.at/netzpolitik/datenschutz-verordnung-umsetzung-besorgniserregend/271.903.408){:target="_blank"}
+
 ## 29. Mai 2017
 Wiener Zeitung - ["Fortschreitender Überwachungsstaat"](http://www.wienerzeitung.at/nachrichten/oesterreich/politik/894857_Fortschreitender-Ueberwachungsstaat.html){:target="_blank"}
 
