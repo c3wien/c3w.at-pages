@@ -7,15 +7,18 @@
 
 # [Privacy Week](https://privacyweek.at/)
 
-*Die [Privacy Week](https://privacyweek.at/) ist eine Veranstaltungsreihe des „Chaos Computer Club Wien (C3W) in der letzten Oktoberwoche 2016.*
-
-[![Privacy Week Vienna - eine Veranstaltungsreihe zum Thema Privatsphäre. ](/files/images/pw.png "")](https://privacyweek.at/)
+*Die [Privacy Week](https://privacyweek.at/) ist eine Veranstaltungsreihe des „Chaos Computer Club Wien (C3W) in der letzten Oktoberwoche.*
 
 Vorratsdatenspeicherung, Videoüberwachung, PRISM, Zugriff auf Konten ohne richterliche Kontrolle, Smart Meter, Änderungen im Staatspolizeigesetz und andere Maßnahmen im staatlichen Bereich und durch Privatunternehmen bedrohen unsere Privatsphäre und die Grundrechte.
 
 *Wir denken: Aufklärung und Wissen hilft.*
 
-Deshalb steht die letzte Oktoberwoche 2016 ganz im Zeichen der Privatsphäre. Vom 24. bis 30.10. wird unter dem Titel „Privacy Week“ ein vielfältiges Programm an Workshops, Vorträgen, Kunst- und Schulprojekten rund um das Thema „Privatsphäre im digitalen Zeitalter“ angeboten. Die Inhalte richten sich an ein breites Publikum, an Personen, die "nichts zu verbergen haben" ebenso, wie an Aktivisten und Interessierte, die bereits intensiver mit der Materie in Berührung kamen.
+
+Der große Zuspruch zur ersten PrivacyWeek des Chaos Computer Club Wien gab uns recht: Das komplexe Thema „Privatsphäre im digitalen Zeitalter“ beschäftigt uns alle: AnwenderInnen, PädagogInnen, Medien, BürgerInnen und Unternehmen. Deshalb gibt es auch 2017 eine PrivacyWeek.
+
+Von 23. bis 29. Oktober beschäftigen wir uns diesmal besonders mit den Daten und Datenspuren, die wir online hinterlassen. Datenhändler, BigData, Anonymisierung von Daten, Tracking sowie Analyse und Auswertung von Nutzerdaten.
+
+Rund um die Big Brother Awards Österreich werden wir euch wieder spannende Vorträge, noch mehr Workshops, Themen- und Fortbildungstage (für Schulen, Developer und Medien) anbieten. Unser „Call for Participation“ wird noch bis 18.06.2017 verlängert und ist hier verfügbar. Ein erstes Rahmenprogramm wird es diesmal bereits vor dem Sommer geben.
 
 
 # Chaos macht Schule
@@ -29,14 +32,3 @@ Der Chaos Computer Club Wien (C3W) hat in Zusammenarbeit mit dem
 Chaos Computer Club e.V. (CCC e.V.) zum Entwurf des Bundesministeriums für Justiz "(192/ME XXV. GP)" eine 
 [ausführliche Stellungnahme](link://slug/192ME_stellungnahme_staatstrojaner) 
 abgegeben. 
-
-# Digital Roadmap 2016
-Der C3W hat sich die [Digital Roadmap](https://digitalroadmap.gv.at/){:target="_blank"} 
-des Bundeskanzleramts sowie die dazugehörige Plattform zur Onlinekonsultation 
-genauer angesehen. 
-Neben formalen Mängeln fanden wir schwerwiegende technische Schwächen, wie beispielsweise 
-Speicherzeiten von zweieinhalb bis sieben Minuten für einen einzigen Kommentar 
-oder die Möglichkeit, geblockte Accounts eigenständig wieder freizuschalten.
-Alle von uns gefundenen Sicherheitslücken wurden bei den Betreibern der Seite 
-gemeldet.<!-- Unsere Stellungnahme zur Digital Roadmap sowie der dazugehörigen 
-Plattform findet Ihr im <a href="/presse">Pressebereich</a>.-->
