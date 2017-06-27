@@ -18,7 +18,7 @@ Der große Zuspruch zur ersten PrivacyWeek des Chaos Computer Club Wien gab uns 
 
 Von 23. bis 29. Oktober beschäftigen wir uns diesmal besonders mit den Daten und Datenspuren, die wir online hinterlassen. Datenhändler, BigData, Anonymisierung von Daten, Tracking sowie Analyse und Auswertung von Nutzerdaten.
 
-Rund um die Big Brother Awards Österreich werden wir euch wieder spannende Vorträge, noch mehr Workshops, Themen- und Fortbildungstage (für Schulen, Developer und Medien) anbieten. Unser „Call for Participation“ wird noch bis 18.06.2017 verlängert und ist hier verfügbar. Ein erstes Rahmenprogramm wird es diesmal bereits vor dem Sommer geben.
+Rund um die Big Brother Awards Österreich werden wir euch wieder spannende Vorträge, noch mehr Workshops, Themen- und Fortbildungstage (für Schulen, Developer und Medien) anbieten.
 
 
 # Chaos macht Schule
