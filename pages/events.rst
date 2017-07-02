@@ -10,10 +10,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Juni 2017
----------
-* 2017-06-28T19:00:00+01:00: `Generalversammlung CCC Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-
 Juli 2017
 ---------
 * 2017-07-06/2017-07-09: `Camp++ 0x7e1 <https://camp.hsbp.org/2017/pp7e1>`_, Fort Monostor, Komárom, Hungary
@@ -48,6 +44,8 @@ Juni 2017
 ---------
 * 2017-06-16/2017-06-18: `Chaos Singularity (CoSin) <https://www.cosin.ch/de/>`_, Villa Ritter in Biel (CH)
 * 2017-06-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+* 2017-06-28T19:00:00+01:00: `Generalversammlung CCC Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
 
 Mai 2017
 --------
