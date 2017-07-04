@@ -22,12 +22,14 @@ August 2017
 
 September 2017
 --------------
+* 2017-09-01/2017-09-03: `Bundesdatenvorschau <https://2017.mrmcd.net/>`_, Darmstadt
 * 2017-09-15/2017-09-17: `BalCCon2k17 <https://www.balccon.org/>`_, Novi Sad, Serbia
 * 2017-09-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2017-09-29/2017-10-01: `Geekend Graz <https://www.wiki.realraum.at/geekend17-2>`_, Graz, Austria
 
 Oktober 2017
 ------------
+* 2017-10-06/2017-10-08: `Hackover 2017 <https://hackover.de/>`_, Hannover
 * 2017-10-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 * 2017-10-23/2017-10-29: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre geht uns alle an.
 * 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
