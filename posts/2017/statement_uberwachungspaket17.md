@@ -28,7 +28,7 @@ demokratischen Republik.
 <!-- TEASER_END -->
 
 Einschränkung von Grundrechten darf kein Spielball von Gefühlen und
-Wünschen sein, dass zeigt auch die klare rechtssprechung des
+Wünschen sein, das zeigt auch die klare Rechtssprechung des
 Europäischen Gerichtshofes bei der Aufhebung der
 Vorratsdatenspeicherung.
 
