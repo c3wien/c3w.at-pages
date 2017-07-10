@@ -7,6 +7,9 @@
 
 # 2017
 
+## 11. Juli 2017
+ORF.at - [Sicherheitspaket: Autofahrer in der Überwachungsfalle](http://orf.at/stories/2398711/2398709/){:target="_blank"}
+
 ## 26. Juni 2017
 Futurezone.at - [Datenschutz-Verordnung: Umsetzung „besorgniserregend“](https://futurezone.at/netzpolitik/datenschutz-verordnung-umsetzung-besorgniserregend/271.903.408){:target="_blank"}
 
