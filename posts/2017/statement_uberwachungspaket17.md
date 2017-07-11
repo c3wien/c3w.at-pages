@@ -20,7 +20,7 @@ Bundesregierung hier wieder darauf setzt, viel zu fordern,
 öffentlichkeitswirksam auf ein paar „harmlose“ Forderungen zu
 verzichten, um dann dennoch ihren Wunschkatalog durchzusetzen.
 
-Wieder einmal wird eine Illusion von "Sicherheit" vorgegaukelt, um
+Wieder einmal wird eine Illusion von „Sicherheit“ vorgegaukelt, um
 wesentliche Grundrechte einzuschränken. Die gewünschte grenzenlose
 Totalüberwachung wäre eines Spitzelstaates würdig, nicht aber einer
 demokratischen Republik.
@@ -51,7 +51,7 @@ Einhaltung von Vorschriften überprüft.
 
 Darüber hinaus finden sich in der „Gemischtwarenhandlung“ des
 Überwachungspakets auch andere Forderungen wie etwa „Netzsperren bei
-Urheberrechtsverletzungen", der Wunschtraum  der
+Urheberrechtsverletzungen“, der Wunschtraum  der
 Verwertungsgesellschaften, sowie die Abschaffung der Netzneutralität.
 Beides Themen, die mit „Sicherheits- und kriminalpolizeilichen Zwecken“
 nicht in Zusammenhang stehen und in diesen Gesetzsentwürfen nichts
@@ -60,7 +60,7 @@ verloren haben.
 Schon bei der Umsetzung des Datenschutzgesetzes hat die Koalition
 gezeigt, dass sie keinen Wert auf eine qualitativ angemessene
 Gesetzeswerdung legt: Ohne Berüchsichtigung von 169 Stellungnahmen wurde
-ein "gesamtändernder Änderungsantrag" mit klaren Lücken, vorbei am
+ein „gesamtändernder Änderungsantrag“ mit klaren Lücken, vorbei am
 Begutachtungsverfahren, beschlossen.
 
 Auch wenn die Bundesregierung die Stellungnahmen der Institutionen und
