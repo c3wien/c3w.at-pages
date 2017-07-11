@@ -8,6 +8,9 @@
 # 2017
 
 ## 11. Juli 2017
+Futurezone.at - [Sicherheitspaket: „Massive Einschränkung von Bürgerrechten“](https://futurezone.at/netzpolitik/sicherheitspaket-massive-einschraenkung-von-buergerrechten/274.505.634){:target="_blank"}
+
+## 10. Juli 2017
 ORF.at - [Sicherheitspaket: Autofahrer in der Überwachungsfalle](http://orf.at/stories/2398711/2398709/){:target="_blank"}
 
 ## 26. Juni 2017
