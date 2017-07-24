@@ -10,11 +10,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Juli 2017
----------
-* 2017-07-06/2017-07-09: `Camp++ 0x7e1 <https://camp.hsbp.org/2017/pp7e1>`_, Fort Monostor, Komárom, Hungary
-* 2017-07-18T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-
 August 2017
 -----------
 * 2017-08-04/2017-08-08: `SHA2017 <https://sha2017.org/>`_,  Scoutinglandgoed in Zeewolde, 55km east of Amsterdam, The Netherlands
@@ -58,6 +53,12 @@ Februar 2018
 
 vergangene Events
 =================
+
+Juli 2017
+---------
+* 2017-07-06/2017-07-09: `Camp++ 0x7e1 <https://camp.hsbp.org/2017/pp7e1>`_, Fort Monostor, Komárom, Hungary
+* 2017-07-18T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
+
 
 Juni 2017
 ---------
