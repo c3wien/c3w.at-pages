@@ -7,6 +7,9 @@
 
 # 2017
 
+## 22. August 2017
+Futurezone.at - [Massive Kritik am geplanten Sicherheitspaket](https://futurezone.at/netzpolitik/massive-kritik-am-geplanten-sicherheitspaket/281.976.170){:target="_blank"}
+
 ## 11. Juli 2017
 Futurezone.at - [Sicherheitspaket: „Massive Einschränkung von Bürgerrechten“](https://futurezone.at/netzpolitik/sicherheitspaket-massive-einschraenkung-von-buergerrechten/274.505.634){:target="_blank"}
 
