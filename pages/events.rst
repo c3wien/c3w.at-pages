@@ -29,6 +29,7 @@ November 2017
 
 Dezember 2017
 -------------
+* 2017-12-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-12-27/2017-12-30: `34C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Leipzig; `Infos zum Vorverkauf sind im CCC-Events-Blog zu finden <https://events.ccc.de/2017/08/09/34c3-presale/>`_
 
 Jänner 2018
@@ -38,6 +39,36 @@ Jänner 2018
 Februar 2018
 ------------
 * 2018-02-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
+März 2018
+---------
+* 2018-03-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-03-30/2018-04-02: `Easterhegg <https://eh18.easterhegg.eu/>`_, Würzburg
+
+April 2018
+----------
+* 2018-04-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-04-20/2018-04-21: `Linuxwochen Eisenstadt <https://www.linuxwochen.at/>`_, tbd, Eisenstadt
+* 2018-04-27/2018-04-28: `Linuxtage Graz <https://linuxtage.at/>`_, tbd, Graz
+
+Mai 2018
+--------
+* 2018-05-03/2018-05-05: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, tbd, Wien
+* 2018-05-10/2018-05-13: `Gulaschprogrammiernacht 18 <https://entropia.de/GPN18>`_, Karlsruhe
+* 2018-05-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
+Juni 2018
+---------
+* 2018-06-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
+Juli 2018
+---------
+* 2018-07-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
+August 2018
+-----------
+* 2018-08-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
 
 |
 
