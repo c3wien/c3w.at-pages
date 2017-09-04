@@ -10,17 +10,11 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-August 2017
------------
-* 2017-08-04/2017-08-08: `SHA2017 <https://sha2017.org/>`_,  Scoutinglandgoed in Zeewolde, 55km east of Amsterdam, The Netherlands
-* 2017-08-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-
 September 2017
 --------------
-* 2017-09-01/2017-09-03: `Bundesdatenvorschau <https://2017.mrmcd.net/>`_, Darmstadt
 * 2017-09-15/2017-09-17: `BalCCon2k17 <https://www.balccon.org/>`_, Novi Sad, Serbia
 * 2017-09-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
-* 2017-09-29/2017-10-01: `Geekend Graz <https://www.wiki.realraum.at/geekend17-2>`_, Graz, Austria
+* 2017-09-29/2017-10-01: `Geekend Graz <https://wiki.realraum.at/geekend17-2>`_, Graz, Austria
 
 Oktober 2017
 ------------
@@ -53,6 +47,15 @@ Februar 2018
 
 vergangene Events
 =================
+
+September 2017
+--------------
+* 2017-09-01/2017-09-03: `MRMCD2017 Bundesdatenschau <https://2017.mrmcd.net/>`_, Darmstadt
+
+August 2017
+-----------
+* 2017-08-04/2017-08-08: `SHA2017 <https://sha2017.org/>`_,  Scoutinglandgoed in Zeewolde, 55km east of Amsterdam, The Netherlands
+* 2017-08-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <http://metalab.at>`_
 
 Juli 2017
 ---------
