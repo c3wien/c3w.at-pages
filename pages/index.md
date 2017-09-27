@@ -1,10 +1,11 @@
-.. title: Home
+.. title: Chaos Computer Club Wien (C3W)
 .. hidetitle: True
 .. slug: index
 .. date: 1970-01-01 00:00:00 UTC
 .. tags:
 .. link:
-.. description:
+.. description: Der Chaos Computer Club Wien ist eine Gemeinschaft von Menschen, die sich grenzüberschreitend für Informationsfreiheit einsetzt, den kritischen Umgang mit elektronischen Medien sowie der Risiken und Nebenwirkungen der elektronischen Kommunikation und die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung fördert.
+.. previewimage: https://c3w.at/assets/images/preview-card.jpg
 
 <br />
 [![Privacy Week Vienna - eine Veranstaltungsreihe zum Thema Privatsphäre. ](files/images/pw.png "")](https://privacyweek.at/)

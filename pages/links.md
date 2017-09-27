@@ -4,6 +4,7 @@
 .. tags:
 .. link:
 .. description:
+.. previewimage: https://c3w.at/assets/images/preview-card.jpg
 
 # Chaosnahe Hackspaces und Vereine
 
