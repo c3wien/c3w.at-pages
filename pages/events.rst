@@ -11,14 +11,8 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-September 2017
---------------
-* 2017-09-29/2017-10-01: `Geekend Graz <https://wiki.realraum.at/geekend17-2>`_, Graz, Austria
-
 Oktober 2017
 ------------
-* 2017-10-15T19:00:00+01:00: C3W Stammtisch - 15 Jahre CNGW, `Käuzchen <http://kaeuzchen.at/>`_
-* 2017-10-06/2017-10-08: `Hackover 2017 <https://hackover.de/>`_, Hannover
 * 2017-10-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-10-23/2017-10-29: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre geht uns alle an.
 * 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
@@ -79,11 +73,17 @@ August 2018
 vergangene Events
 =================
 
+Oktober 2017
+------------
+* 2017-10-05T19:00:00+01:00: C3W Stammtisch - 15 Jahre CNGW, `Käuzchen <http://kaeuzchen.at/>`_
+* 2017-10-06/2017-10-08: `Hackover 2017 <https://hackover.de/>`_, Hannover
+
 September 2017
 --------------
 * 2017-09-01/2017-09-03: `MRMCD2017 Bundesdatenschau <https://2017.mrmcd.net/>`_, Darmstadt
 * 2017-09-15/2017-09-17: `BalCCon2k17 <https://www.balccon.org/>`_, Novi Sad, Serbia
 * 2017-09-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2017-09-29/2017-10-01: `Geekend Graz <https://wiki.realraum.at/geekend17-2>`_, Graz, Austria
 
 August 2017
 -----------
@@ -95,13 +95,11 @@ Juli 2017
 * 2017-07-06/2017-07-09: `Camp++ 0x7e1 <https://camp.hsbp.org/2017/pp7e1>`_, Fort Monostor, Komárom, Hungary
 * 2017-07-18T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
-
 Juni 2017
 ---------
 * 2017-06-16/2017-06-18: `Chaos Singularity (CoSin) <https://www.cosin.ch/de/>`_, Villa Ritter in Biel (CH)
 * 2017-06-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-06-28T19:00:00+01:00: `Generalversammlung CCC Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
-
 
 Mai 2017
 --------
