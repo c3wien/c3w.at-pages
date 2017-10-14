@@ -4,6 +4,7 @@ date: 1970-01-01 00:00:00 UTC
 tags:
 link:
 description:
+previewimage: /assets/images/preview-card.jpg
 
 # Öffentliche Online Services
 Der Chaos Computer Club Wien (C3W) betreibt zum eigenen Zwecke, aber auch für
