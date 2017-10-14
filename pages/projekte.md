@@ -4,7 +4,7 @@
 .. tags:
 .. link:
 .. description: Projekte des Chaos Computer Clubs Wien
-.. previewimage: https://c3w.at/assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.jpg
 
 # [Privacy Week](https://privacyweek.at/)
 
