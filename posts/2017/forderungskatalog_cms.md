@@ -12,7 +12,7 @@
 
 
 Unsere Kinder lernen in der Schule zu wenig über Technik und wie man mit
-ihr umgehen sollte. Der C3W (Chaos Computer Club Wien [[7]](https://c3w.at){:target="_blank"}) präsentiert
+ihr umgehen sollte. Der C3W (Chaos Computer Club Wien [[7]](/){:target="_blank"}) präsentiert
 daher am kommenden Freitag im Rahmen des Open Common Kongress 2017
 in Linz [[6]](http://opencommons.linz.at/category/open-commons-kongress-2017/){:target="_blank"} seine Überlegungen für eine zeitgemäße digitale Bildung [[3]](http://ccc.de/de/updates/2017/cms-forderungen){:target="_blank"}. Diese 
 basieren auf den am Montag dieser Woche auf der re:publica in Berlin [[5]](http://bit.ly/2pvMtlu){:target="_blank"}.
@@ -22,7 +22,7 @@ vorgestellten Forderungen des  deutschen Chaos Computer Club e.V. (CCC).
 
 In Deutschland arbeitet „Chaos macht Schule“ [[1]](http://ccc.de/de/schule){:target="_blank"} seit mehr als zehn Jahren
 mit Kindern und Jugendlichen sowie mit Lehrern und mit Eltern. Diese
-Initiative des CCC wird seit Mitte 2016 vom CCC Wien [[2]](https://c3w.at/schule/){:target="_blank"} in Österreich
+Initiative des CCC wird seit Mitte 2016 vom CCC Wien [[2]](/schule/){:target="_blank"} in Österreich
 unterstützt. Länderübergreifend wurden die gleichen Erfahrungen gesammelt.
 Bei der Bildungspolitik in Zusammenhang mit der Aneignung von Technik liegt
 in Deutschland wie in Österreich einiges im Argen. Die Mängel sollen daher
@@ -94,12 +94,12 @@ einseitig auf die Bildungsangebote von Großkonzernen setzen zu müssen.
 
 # Links
 *  [1] [Chaos macht Schule in Deutschland](http://ccc.de/de/schule)
-*  [2] [Chaos macht Schule in Österreich](https://c3w.at/schule/)
+*  [2] [Chaos macht Schule in Österreich](/schule/)
 *  [3] [Die Forderungen des CCC e.V.](http://ccc.de/de/updates/2017/cms-forderungen)
 *  [4] [Langversion der Forderungen](http://ccc.de/de/cms-forderungen-lang)
 *  [5] [Vorstellung der Forderungen auf der re:publica](http://bit.ly/2pvMtlu)
 *  [6] [Open Commons Kongress Linz 2017](http://opencommons.linz.at/category/open-commons-kongress-2017/)
-*  [7] [Chaos Computer Club Wien (C3W)](https://c3w.at)
+*  [7] [Chaos Computer Club Wien (C3W)](/)
 *  [8] [Chaos Computer Club e.V. (CCC)](https://ccc.de)
 
 &nbsp;

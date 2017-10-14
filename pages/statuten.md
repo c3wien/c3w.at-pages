@@ -6,7 +6,7 @@
 .. link: 
 .. description: Statuten des Vereins Chaos Computer Club Wien (C3W)
 .. type: text
-.. previewimage: https://c3w.at/assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.jpg
 
 per 2016-03-29    
 

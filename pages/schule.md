@@ -4,7 +4,7 @@
 .. tags:
 .. link:
 .. description: Chaos macht Schule - CmS - eine Bildungsinitiative des Chaos Computer Clubs
-.. previewimage: https://c3w.at/assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.jpg
 
 ## Eine Bildungsinitiative des Chaos Computer Clubs
 

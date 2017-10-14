@@ -21,7 +21,7 @@ Darüber hinaus veranstaltet der Chaos Computer Club Wien vom 23. bis 29. Oktobe
 Rückfragen & Kontakt:<br>
 > Chaos Computer Club Wien (C3W)<br>
 > [buero@c3w.at](mailto:buero@c3w.at) bzw. [schule@c3w.at](mailto:schule@c3w.at)<br>
-> [c3w.at](https://c3w.at/){:target="_blank"}<br>
+> [c3w.at](/){:target="_blank"}<br>
 > [privacyweek.at](https://privacyweek.at/){:target="_blank"}<br>
 
 
