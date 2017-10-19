@@ -8,7 +8,15 @@
 
 # 2017
 
+## 19. Oktober 2017
+Futurezone.at - [Privacy Week 2017: Privatsphäre im digitalen Zeitalter](https://futurezone.at/netzpolitik/privacy-week-2017-privatsphaere-im-digitalen-zeitalter/292.989.472){:target="_blank"}
+
+## 17. Oktober 2017
+monitor.at - [Veranstaltungswoche zu Privatsphäre und Digitalisierung - PrivacyWeek 2017 des C3W](http://www.monitor.at/storyid/article/privacyweek-2017-des-c3w/){:target="_blank"}
+
 ## 12. Oktober 2017
+Der Standard/APA - [Privacy Week beleuchtet Privatsphäre und Digitalisierung](https://derstandard.at/2000065876627/PrivacyWeek-beleuchtet-Privatsphaere-und-Digitalisierung){:target="_blank"}
+
 FM4 - [Bundestrojaner kehrt nach der Nationalratswahl zurück](http://fm4.orf.at/stories/2871702/){:target="_blank"}
 
 ## 13. September 2017
