@@ -13,16 +13,19 @@ kommende Events
 
 November 2017
 -------------
+* 2017-11.20T18:30:00: `Nerd-Café - Daten und Datenspuren`_, VHS Josefstadt
 * 2017-11-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Dezember 2017
 -------------
+* 2017-12.18T18:30:00: `Nerd-Café - Netzstrukturen und Netzpolitik`_, VHS Josefstadt
 * 2017-12-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-12-27/2017-12-30: `34C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Leipzig; `Infos zum Vorverkauf sind im CCC-Events-Blog zu finden <https://events.ccc.de/2017/08/09/34c3-presale/>`_
 
 Jänner 2018
 -----------
 * 2018-01-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-01.22T18:30:00: `Nerd-Café - Hands On Privacy Einstellungen`_, VHS Josefstadt
 
 Februar 2018
 ------------
@@ -74,7 +77,7 @@ Oktober 2017
 * 2017-10-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-10-23/2017-10-29: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre geht uns alle an.
 * 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
-
+* 2017-10-30T18:30:00: `Nerd-Café - Cryptoparty </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 
 September 2017
 --------------
