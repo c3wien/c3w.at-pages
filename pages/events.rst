@@ -11,11 +11,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Oktober 2017
-------------
-* 2017-10-23/2017-10-29: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre geht uns alle an.
-* 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
-
 November 2017
 -------------
 * 2017-11-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
@@ -77,6 +72,9 @@ Oktober 2017
 * 2017-10-05T19:00:00+01:00: `C3W Stammtisch - 15 Jahre CNGW, <http://kaeuzchen.at/>`_, Käuzchen 
 * 2017-10-06/2017-10-08: `Hackover 2017 <https://hackover.de/>`_, Hannover
 * 2017-10-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2017-10-23/2017-10-29: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre geht uns alle an.
+* 2017-10-25 `Big Brother Awards Gala 2017 <https://www.bigbrotherawards.at>`_, Rabenhof Theater Wien
+
 
 September 2017
 --------------
