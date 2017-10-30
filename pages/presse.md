@@ -8,6 +8,12 @@
 
 # 2017
 
+## 30. Oktover 2017
+Radio Dispositiv - [Nachbetrachtungen zur zweiten PrivacyWeek](https://cba.fro.at/352698){:target="_blank"}
+
+## 23. Oktober 2017
+Futurezone.at - [Gebt den Nutzern die Macht über ihre Daten](https://m.futurezone.at/netzpolitik/gebt-den-nutzern-die-macht-ueber-ihre-daten/294.018.188){:target="_blank"}
+
 ## 19. Oktober 2017
 Futurezone.at - [Privacy Week 2017: Privatsphäre im digitalen Zeitalter](https://futurezone.at/netzpolitik/privacy-week-2017-privatsphaere-im-digitalen-zeitalter/292.989.472){:target="_blank"}
 
