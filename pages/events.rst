@@ -13,19 +13,20 @@ kommende Events
 
 November 2017
 -------------
-* 2017-11.20T18:30:00: `Nerd-Café - Daten und Datenspuren </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
+* 2017-11-02T19:00:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2017-11-20T18:30:00: `Nerd-Café - Daten und Datenspuren </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 * 2017-11-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Dezember 2017
 -------------
-* 2017-12.18T18:30:00: `Nerd-Café - Netzstrukturen und Netzpolitik </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
+* 2017-12-18T18:30:00: `Nerd-Café - Netzstrukturen und Netzpolitik </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 * 2017-12-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-12-27/2017-12-30: `34C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Leipzig; `Infos zum Vorverkauf sind im CCC-Events-Blog zu finden <https://events.ccc.de/2017/08/09/34c3-presale/>`_
 
 Jänner 2018
 -----------
 * 2018-01-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
-* 2018-01.22T18:30:00: `Nerd-Café - Hands On Privacy Einstellungen </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
+* 2018-01-22T18:30:00: `Nerd-Café - Hands On Privacy Einstellungen </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 
 Februar 2018
 ------------
@@ -72,7 +73,7 @@ vergangene Events
 
 Oktober 2017
 ------------
-* 2017-10-05T19:00:00+01:00: `C3W Stammtisch - 15 Jahre CNGW, <http://kaeuzchen.at/>`_, Käuzchen 
+* 2017-10-05T19:00:00+01:00: `C3W Stammtisch - 15 Jahre CNGW <http://kaeuzchen.at/>`_, Käuzchen
 * 2017-10-06/2017-10-08: `Hackover 2017 <https://hackover.de/>`_, Hannover
 * 2017-10-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-10-23/2017-10-29: `Privacy Week <https://privacyweek.at/>`_ - Privatsphäre geht uns alle an.
