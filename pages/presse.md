@@ -8,8 +8,28 @@
 
 # 2017
 
-## 30. Oktover 2017
+## 15. November 2017
+Futurezone.at - [Digitaler Wahlkampf: Von Microtargeting bis zu Dark Posts](https://futurezone.at/netzpolitik/digitaler-wahlkampf-von-microtargeting-bis-zu-dark-posts/295.411.918){:target="_blank"}
+
+## 07. November 2017
+Futurezone.at - [„Mit Upload-Filtern funktioniert Wikipedia nicht mehr“](https://futurezone.at/netzpolitik/mit-upload-filtern-funktioniert-wikipedia-nicht-mehr/296.811.609){:target="_blank"}
+
+## 03. November 2017
+Futurezone.at - [Warum Bezahlen per Selfie und Fingerabdruck nicht sicher ist ](https://futurezone.at/digital-life/warum-bezahlen-per-selfie-und-fingerabdruck-nicht-sicher-ist/227.827.127){:target="_blank"}
+
+## 01. November 2017
+Futurezone.at - [Wiener Kurzfilm zeigt „Leben mit Selbstoptimierung“](https://futurezone.at/digital-life/wiener-kurzfilm-zeigt-leben-mit-selbstoptimierung/295.478.099){:target="_blank"}
+
+Futurezone.at - [Stalking: „Spyware installieren ist einfach“](https://futurezone.at/digital-life/stalking-spyware-installieren-ist-einfach/295.377.964){:target="_blank"}
+
+## 30. Oktober 2017
 Radio Dispositiv - [Nachbetrachtungen zur zweiten PrivacyWeek](https://cba.fro.at/352698){:target="_blank"}
+
+## 26. Oktober 2017
+Futurezone.at - ["Ein Gefühl, das man nur aus totalitären Staaten kennt"](https://futurezone.at/netzpolitik/ein-gefuehl-das-man-nur-aus-totalitaeren-staaten-kennt/227.250.969){:target="_blank"}
+
+## 24. Oktober 2017
+Futurezone.at - ["Digitale Medienkompetenz wird vom Lehrplan ignoriert“](https://m.futurezone.at/digital-life/digitale-medienkompetenz-wird-vom-lehrplan-ignoriert/227.113.318){:target="_blank"}
 
 ## 23. Oktober 2017
 Futurezone.at - [Gebt den Nutzern die Macht über ihre Daten](https://m.futurezone.at/netzpolitik/gebt-den-nutzern-die-macht-ueber-ihre-daten/294.018.188){:target="_blank"}
