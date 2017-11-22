@@ -11,10 +11,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-November 2017
--------------
-* 2017-11-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
-
 Dezember 2017
 -------------
 * 2017-12-01T19:00:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
@@ -74,6 +70,7 @@ November 2017
 -------------
 * 2017-11-02T19:00:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
 * 2017-11-20T18:30:00: `Nerd-Café - Daten und Datenspuren </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
+* 2017-11-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Oktober 2017
 ------------
