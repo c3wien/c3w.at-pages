@@ -11,13 +11,8 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Dezember 2017
--------------
-* 2017-12-27/2017-12-30: `34C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Leipzig; `Infos zum Vorverkauf sind im CCC-Events-Blog zu finden <https://events.ccc.de/2017/10/03/34c3-tickets-status-and-open-sale/>`_
-
 Jänner 2018
 -----------
-* 2018-01-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2018-01-22T18:30:00: `Nerd-Café - Hands On Privacy Einstellungen </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 
 Februar 2018
@@ -63,11 +58,16 @@ August 2018
 vergangene Events
 =================
 
+Jänner 2018
+-----------
+* 2018-01-16T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
 Dezember 2017
 -------------
 * 2017-12-01T19:00:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
 * 2017-12-18T18:30:00: `Nerd-Café - Netzstrukturen und Netzpolitik </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 * 2017-12-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2017-12-27/2017-12-30: `34C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Leipzig; `Infos zum Vorverkauf sind im CCC-Events-Blog zu finden <https://events.ccc.de/2017/10/03/34c3-tickets-status-and-open-sale/>`_
 
 November 2017
 -------------
