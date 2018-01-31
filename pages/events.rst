@@ -31,6 +31,7 @@ April 2018
 
 Mai 2018
 --------
+* 2018-05-04T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
 * 2018-05-03/2018-05-05: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, tbd, Wien
 * 2018-05-10/2018-05-13: `Gulaschprogrammiernacht 18 <https://entropia.de/GPN18>`_, Karlsruhe
 * 2018-05-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
