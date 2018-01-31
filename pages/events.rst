@@ -38,6 +38,7 @@ Mai 2018
 
 Juni 2018
 ---------
+* 2018-06-01T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
 * 2018-06-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Juli 2018
