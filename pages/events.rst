@@ -24,6 +24,7 @@ März 2018
 
 April 2018
 ----------
+* 2018-04-06T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
 * 2018-04-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2018-04-20/2018-04-21: `Linuxwochen Eisenstadt 2018 <https://www.linuxwochen.at/>`_, tbd, Eisenstadt
 * 2018-04-27/2018-04-28: `Linuxtage Graz 2018 <https://linuxtage.at/>`_, tbd, Graz
