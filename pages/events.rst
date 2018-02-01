@@ -13,37 +13,37 @@ kommende Events
 
 Februar 2018
 ------------
-* 2018-02-02T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2018-02-02T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-02-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 März 2018
 ---------
-* 2018-03-02T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2018-03-02T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-03-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2018-03-30/2018-04-02: `Easterhegg 18 <https://eh18.easterhegg.eu/>`_, Würzburg
 
 April 2018
 ----------
-* 2018-04-06T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2018-04-06T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-04-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2018-04-20/2018-04-21: `Linuxwochen Eisenstadt 2018 <https://www.linuxwochen.at/>`_, tbd, Eisenstadt
 * 2018-04-27/2018-04-28: `Linuxtage Graz 2018 <https://linuxtage.at/>`_, tbd, Graz
 
 Mai 2018
 --------
-* 2018-05-04T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2018-05-04T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-05-03/2018-05-05: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, tbd, Wien
 * 2018-05-10/2018-05-13: `Gulaschprogrammiernacht 18 <https://entropia.de/GPN18>`_, Karlsruhe
 * 2018-05-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Juni 2018
 ---------
-* 2018-06-01T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2018-06-01T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-06-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Juli 2018
 ---------
-* 2018-07-06T19:00:00+01:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2018-07-06T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-07-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 August 2018
@@ -67,14 +67,14 @@ Jänner 2018
 
 Dezember 2017
 -------------
-* 2017-12-01T19:00:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2017-12-01T19:00:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2017-12-18T18:30:00: `Nerd-Café - Netzstrukturen und Netzpolitik </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 * 2017-12-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-12-27/2017-12-30: `34C3 <https://events.ccc.de/category/congress/33c3/>`_, Congress Center Leipzig; `Infos zum Vorverkauf sind im CCC-Events-Blog zu finden <https://events.ccc.de/2017/10/03/34c3-tickets-status-and-open-sale/>`_
 
 November 2017
 -------------
-* 2017-11-02T19:00:00: `C3W Stammtisch <http://kaeuzchen.at/>`_, Käuzchen
+* 2017-11-02T19:00:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2017-11-20T18:30:00: `Nerd-Café - Daten und Datenspuren </posts/2017/nerd-cafe-josefstadt/>`_, VHS Josefstadt
 * 2017-11-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
