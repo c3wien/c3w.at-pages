@@ -23,13 +23,7 @@ Rund um die Big Brother Awards Österreich werden wir euch wieder spannende Vort
 
 
 # Chaos macht Schule
-Das in CCC-Kreisen bereits sehr erfolgreiche Projekt 
-"[Chaos macht Schule](/schule)" wollen wir nach 
-Wien holen. Dazu sind wir im Austausch mit Chaostreffs, die in dem Bereich 
-aktiv sind und aktiv an Schulen auf Lehrer, Schülern und Eltern zugehen.
+Das in CCC-Kreisen bereits sehr erfolgreiche Projekt "[Chaos macht Schule](/schule)" wollen wir nach Wien holen. Dazu sind wir im Austausch mit Chaostreffs, die in dem Bereich aktiv sind und aktiv an Schulen auf Lehrer, Schülern und Eltern zugehen.
 
 # Bundestrojaner
-Der Chaos Computer Club Wien (C3W) hat in Zusammenarbeit mit dem 
-Chaos Computer Club e.V. (CCC e.V.) zum Entwurf des Bundesministeriums für Justiz "(192/ME XXV. GP)" eine 
-[ausführliche Stellungnahme](link://slug/192ME_stellungnahme_staatstrojaner) 
-abgegeben. 
+Der Chaos Computer Club Wien (C3W) hat in Zusammenarbeit mit dem  Chaos Computer Club e.V. (CCC e.V.) zum Entwurf des Bundesministeriums für Justiz (192/ME XXV. GP) eine [ausführliche Stellungnahme](link://slug/192ME_stellungnahme_staatstrojaner) abgegeben.
