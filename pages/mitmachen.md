@@ -9,7 +9,7 @@
 
 # Club
 Der Chaos Computer Club ist dezentral in regionalen Vereinen organisiert, die 
-von den Aktivitäten der HackerInnen vor Ort leben. <br/>
+von den Aktivitäten der HackerInnen vor Ort leben.<br/>
 Der C3W selbst ist, wie auch andere chaosnahe Gruppen in Österreich, 
 ein eigenständiger Verein mit Nähe zum deutschen [CCC e.V.](https://ccc.de){:target="_blank"}.
 Der C3W verfügt gemäß österreichischen Vereinsrechts über alle Ämter, 
