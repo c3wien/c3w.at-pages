@@ -6,7 +6,7 @@
 .. slug: events
 .. previewimage: /assets/images/preview-card.jpg
 
-der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit elektronischen Medien ein, betrachtet Risiken und Nebenwirkungen der elektronischen Kommunikation und fördert die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung. Gemeinsam mit eigenen Veranstaltungen soll diese Seite einen Überblick bieten.
+Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit elektronischen Medien ein, betrachtet Risiken und Nebenwirkungen der elektronischen Kommunikation und fördert die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung. Gemeinsam mit eigenen Veranstaltungen soll diese Seite einen Überblick bieten.
 
 kommende Events
 ===============
