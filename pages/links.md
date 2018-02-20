@@ -32,6 +32,14 @@ Spektral Graz: [spektral.at](http://spektral.at/){:target="_blank"}
  [@HackerspaceLinz](https://twitter.com/hackerspacelinz){:target="_blank"}
 
 
+Segmentation Vault St. Pölten [segvault.space](http://segvault.space/){:target="_blank"}
+ [@segvaultspace](https://twitter.com/segvaultspace){:target="_blank"}
+
+
+/usr/space Leobersdorf [usrspace.at](https://usrspace.at/){:target="_blank"}
+ [@usrspace_at](https://twitter.com/usrspace_at){:target="_blank"}
+
+
 CCC e.V. [ccc.de](https://ccc.de/){:target="_blank"}
  [@CCC](https://twitter.com/ccc){:target="_blank"}
 
