@@ -32,6 +32,14 @@ Spektral Graz: [spektral.at](http://spektral.at/){:target="_blank"}
  [@HackerspaceLinz](https://twitter.com/hackerspacelinz){:target="_blank"}
 
 
+Segmentation Vault St. Pölten [segvault.space](http://segvault.space/){:target="_blank"}
+ [@segvaultspace](https://twitter.com/segvaultspace){:target="_blank"}
+
+
+/usr/space Leobersdorf [usrspace.at](https://usrspace.at/){:target="_blank"}
+ [@usrspace_at](https://twitter.com/usrspace_at){:target="_blank"}
+
+
 CCC e.V. [ccc.de](https://ccc.de/){:target="_blank"}
  [@CCC](https://twitter.com/ccc){:target="_blank"}
 
@@ -39,7 +47,7 @@ CCC e.V. [ccc.de](https://ccc.de/){:target="_blank"}
 
 Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit elektronischen Medien ein, betrachtet Risiken und Nebenwirkungen der elektronischen Kommunikation und fördert die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung. Gemeinsam mit Informationen zu Veranstaltungen soll diese Seite einen Überblick über Ressourcen im Netz bieten.
 
-* Arbeitskreis Vorratsdaten [AK Vorrat.at](https://akvorrat.at/){:target="_blank"} [@AKVorrat_at](https://twitter.com/AKVorrat_at){:target="_blank"}
+* [epicenter.works](https://epicenter.works/){:target="_blank"} for digital rights - [@epicenter_works](https://twitter.com/epicenter_works){:target="_blank"}
 * Initiative für Netzfreiheit [netzfreiheit.org](https://netzfreiheit.org/){:target="_blank"}
 * quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter [quintessenz.at](http://quintessenz.at){:target="_blank"}
 * [Open Knowledge Austria OKFN](http://okfn.at/){:target="_blank"}
