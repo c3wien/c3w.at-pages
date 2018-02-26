@@ -1,11 +1,11 @@
-.. title: Chaos Computer Club Wien (C3W) zum Überwachungspaket 2018
+.. title: Stoppt das schwarz-blaue Überwachungspaket!
 .. slug: kommentar_ueberwachungspaket_2018
 .. date: 2018-02-26 13:37:00 CEST
 .. tags:
 .. link:
 .. description: Chaos Computer Club Wien (C3W) zum Überwachungspaket 2018
 .. type: text
-
+.. previewimage: /assets/images/preview-card.jpg
 
 &nbsp;
 
