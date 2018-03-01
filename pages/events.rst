@@ -11,9 +11,6 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
-Februar 2018
-------------
-* 2018-02-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 März 2018
 ---------
@@ -62,6 +59,7 @@ vergangene Events
 Februar 2018
 ------------
 * 2018-02-02T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
+* 2018-02-20T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Jänner 2018
 -----------
