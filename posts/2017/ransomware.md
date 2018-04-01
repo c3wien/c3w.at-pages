@@ -6,8 +6,6 @@
 .. description: Digitale Sicherheit betrifft jeden
 .. type: text
 
-&nbsp;
-
 ## unsichere Systeme treffen jeden
 
 Ransomware, also Erpressungstrojaner, sind eine zunehmende Gefahr für die 

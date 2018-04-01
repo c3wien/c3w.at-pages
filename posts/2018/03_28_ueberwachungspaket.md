@@ -18,11 +18,11 @@ Für uns ist es unumgänglich, diese bedrohlichen Tendenzen in Gesellschaft und 
 
 Die Bundesegierung legt wieder einmal ein Überwachungspaket vor, das massive Eingriffe in die Grundrechte sowie verschärfte Überwachung ermöglichen soll.
 
+<!-- TEASER_END -->
+
 Hier zeigt sich besonders deutlich, dass durch ständige Ausweitung der Überwachungsmaßnahmen die Grund- und Freiheitsrechte Stück für Stück beschnitten werden – der demokratische Rechtsstaat wird langsam zum Überwachungs- und Polizeistaat.
 
 Das Überwachungspaket der Bundesregierung umfasst u.a.:
-
-<!-- TEASER_END -->
 
 ## 1. Bundestrojaner (staatliche Überwachungssoftware)
 SMS überwachen ist heute bereits erlaubt, WhatsApp und andere Messenger aber bislang nicht. Das will die türkis-blaue Regierung mit ihrem Überwachungspaket ändern. Künftig sollen die Internet-Kommunikation via Messenger-Apps (Whatsapp, Skype) durch staatliche Spionagesoftware überwacht werden. Der sogenannte Bundestrojaner soll zur Anwendung kommen. Der Bundestrojaner soll auch "remote" installiert werden können. Damit soll es dem Staat ermöglicht werden, mit Schadsoftware auf „Computersysteme“ und Mobiltelefone von „Verdächtigen“ und „Gefährdern“ einzubrechen.

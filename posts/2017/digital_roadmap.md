@@ -6,8 +6,6 @@
 .. description: Vor der Fake-News war die Fake-Bürgerbeteiligung
 .. type: text
 
-&nbsp;
-
 Um das hochgelobte Bürgerbeteiligungs- und Transparenzprojekt *„Digital Roadmap Austria“* mit 58 Seiten Diskussionspapier und über 2200 Kommentaren von mehr als 600 Teilnehmern war es die letzten 9 Monate still.
 Die damalige Staatssekretärin Sonja Steßl unterstrich mit „Es soll kein Papierl werden, das wieder in einer Schublade verschwindet“ im Februar 2016 die "Wichtigkeit" des Projekts.
 

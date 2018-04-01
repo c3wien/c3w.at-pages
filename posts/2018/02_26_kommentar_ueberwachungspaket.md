@@ -10,13 +10,15 @@
 # Chaos Computer Club Wien (C3W) zum Überwachungspaket 2018
 
 Der Chaos Computer Club Wien (C3W) hat bereits 2017 mehrere Stellungnahmen zum Überwachungspaket der Koalitionsregierung sowie des geplanten Staatstrojaners 
-abgegeben und dessen Aushöhlung von Grund- und Menschenrechten dargestellt
+abgegeben und dessen Aushöhlung von Grund- und Menschenrechten dargestellt.
 
 ## I. Wir blicken zurück
 
 Zum damaligen Entwurf der ÖVP, unter Innenminister Sobotka, empörte sich der 
 amtierende Innenminister Kickl und verglich das Überwachungspaket mit dem 
 Kontroll- und Überwachungssystem der DDR:
+
+<!-- TEASER_END -->
 
 > Wien (OTS) - Das Sicherheitspaket, das von der ÖVP massiv forciert wird und noch vor der Nationalratswahl beschlossen werden soll, zeichnet jenes autoritäre Denkmuster innerhalb der Volkspartei, das sich auch in deren staatspolitischen Vorstellungen widerspiegelt. Alles in allem erinnert dieses Paket mit seinen Überwachungsmöglichkeiten an die Phantasien von Erich Mielke, der als Minister für Staatssicherheit einer der Hauptverantwortlichen für den Ausbau des flächendeckenden Kontroll- und Überwachungssystems der DDR war. Die Kritik des Rechtsanwälte-Präsidenten Rupert Wolff am Gesetzesentwurf lasse einem die Haare zu Berge stehen und an der Ernsthaftigkeit der Gesetzesvorlage zweifeln, so heute der Generalsekretär der FPÖ, NAbg. Herbert Kickl.
 > 

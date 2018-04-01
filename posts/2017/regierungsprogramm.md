@@ -6,12 +6,12 @@
 .. description: Das Regierungsprogramm 2017-2022: Zurück bis vor die Aufklärung
 .. type: text
 
-&nbsp;
-
 # Zurück bis vor die Aufklärung
 
 ## (I) Das Kleingedruckte
 ÖVP und FPÖ haben zwei Monate lang an einem Regierungsprogramm gearbeitet. Das Ergebnis in Kurzfassung: 182 Seiten Lesestoff, durchmischt mit Prinzipien, Ideen, schwammigen Begriffen und Maßnahmen in Neusprech. 
+
+<!-- TEASER_END -->
 
 Im zweiten Absatz des Vorworts ist zu lesen: *"Wir sind Weltmeister im Regulieren und im Einschränken von Freiheit und Selbstverantwortung."* Und auch, wenn es heißt, das Fundament der von FPÖVP angestrebten Veränderungen *"setzt sich zusammen aus der österreichischen Verfassung, der immerwährenden Neutralität, den Grundprinzipien der Europäischen Union, aber auch den Grund- und Menschenrechten, den bürgerlichen Freiheiten sowie den Rechten von Minderheiten"*, die letztlich gesetzten Ziele sprechen Kontrolle und Überwachung jeder/s Einzelnen und lassen Menschenrechte vermissen.
 
@@ -27,8 +27,6 @@ Stattdessen wird formuliert: *„Und unser Sozialsystem  ist in  eine Schieflage
 „Nichtarbeitende Menschen“ sind nicht nur Rentiers, sondern vor allem Menschen, die keine Arbeit finden, von der sie anständig und ordentlich Leben können. Atypische, prekäre, befristete Arbeitsverhältnisse ohne Zukunftssicherung werden nicht benannt und die logische Konsequenz – Anheben der Einkommen für die untersten Schichten – wird nicht gezogen.
 
 Sozialleistungen sind im Regierungsprogramm überhaupt negativ besetzt, sieben Mal werden sie erwähnt, einmal mit *„erhöhter Treffsicherheit“*, sonst ausschließlich mit Kürzungen verbunden.
-
-<!-- TEASER_END -->
 
 ## (III) Die vielen Leer-Stellen 
 So sind die eigentlichen Absichten der Koalition im vorliegenden „Einigungsdokument“ nur begrenzt enthalten, vieles davon wird nur als Auslassung erkennbar.

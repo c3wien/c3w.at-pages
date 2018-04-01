@@ -6,8 +6,6 @@
 .. description: Statement zum aktuellen Entwurf des Überwachungspaketes 2017
 .. type: text
 
-&nbsp;
-
 ## Überwachung statt Sicherheit
 
 Wir sind sprachlos ob der Unverfrorenheit,
@@ -20,12 +18,12 @@ Bundesregierung hier wieder darauf setzt, viel zu fordern,
 öffentlichkeitswirksam auf ein paar „harmlose“ Forderungen zu
 verzichten, um dann dennoch ihren Wunschkatalog durchzusetzen.
 
+<!-- TEASER_END -->
+
 Wieder einmal wird eine Illusion von „Sicherheit“ vorgegaukelt, um
 wesentliche Grundrechte einzuschränken. Die gewünschte grenzenlose
 Totalüberwachung wäre eines Spitzelstaates würdig, nicht aber einer
 demokratischen Republik.
-
-<!-- TEASER_END -->
 
 Einschränkung von Grundrechten darf kein Spielball von Gefühlen und
 Wünschen sein, das zeigt auch die klare Rechtssprechung des

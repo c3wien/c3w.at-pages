@@ -15,6 +15,8 @@ Der Chaos Computer Club Wien (C3W) hat in Zusammenarbeit mit dem
 Chaos Computer Club e.V. (CCC e.V.) dazu eine ausführliche Stellungnahme 
 abgegeben.
 
+<!-- TEASER_END -->
+
 Im Vorschlag des Ministerialentwurf finden sich unzulässige 
 Grundrechtseingriffe und ein weder technisch noch legistisch ausreichend 
 bestimmtes Vorhaben. Eine Wirkungsfolgenabschätzung, die über einen 
@@ -27,7 +29,6 @@ Die gesamte Stellungnahme kann auf der Webseite des Österreichischen Parlaments
 [https://www.parlament.gv.at/PAKT/VHG/XXV/SNME/SNME_06797/index.shtml](https://www.parlament.gv.at/PAKT/VHG/XXV/SNME/SNME_06797/index.shtml){:target="_blank"}
 abgerufen werden
 
-<!-- TEASER_END -->
 
 # Rechtsfiktion
 Der Ministerialentwurf behauptet, sich auf Kommunikationsüberwachung zu 
