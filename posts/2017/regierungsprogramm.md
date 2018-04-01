@@ -6,8 +6,6 @@
 .. description: Das Regierungsprogramm 2017-2022: Zurück bis vor die Aufklärung
 .. type: text
 
-&nbsp;
-
 # Zurück bis vor die Aufklärung
 
 ## (I) Das Kleingedruckte
