@@ -7,16 +7,10 @@
 .. type: text
 .. previewimage: /assets/images/preview-card.jpg
 
-&nbsp;
-
-* [Vollständige Stellungnahme](link:///files/publications/20180328_ueberwachungspaket.pdf){:target="_blank"} *(pdf, 7 Seiten)*
-
-&nbsp;
+[Vollständige Stellungnahme](link:///files/publications/20180328_ueberwachungspaket.pdf){:target="_blank"} *(pdf, 7 Seiten)*
 
 > *Wir laufen seit Jahren wie Schlafwandler in einen Überwachungsstaat.* <br/>
 **Reinhard Kreissl, Kriminalsoziologe**
-
-&nbsp;
 
 Österreich hat – selbst innerhalb Europas – eine der am weitesten entwickelten Demokratien. Nach den Gräueln des Faschismus mit Krieg, Massenmord und Überwachung, hat sich Österreich zu einer der fortgeschrittensten Demokratien entwickelt.
 Die ökonomische Entwicklung, das Nachhinken der Arbeitseinkommen gegenüber Kapital- und Unternehmensgewinnen bewirken eine Teilung, ein Auseinanderbrechen der Gesellschaft. Die Ausweitung dieses Bruchs wird von manchen politischen Parteien und auflagenstarken Massenmedien gefördert.
