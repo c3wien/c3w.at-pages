@@ -12,10 +12,6 @@ kommende Events
 ===============
 
 
-März 2018
----------
-* 2018-03-30/2018-04-02: `Easterhegg 18 <https://eh18.easterhegg.eu/>`_, Vogel Convention Center, Würzburg
-
 April 2018
 ----------
 * 2018-04-06T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
@@ -58,6 +54,7 @@ März 2018
 ---------
 * 2018-03-02T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-03-20T19:00:00+01:00: `Generalversammlung CCC Wien <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-03-30/2018-04-02: `Easterhegg 18 <https://eh18.easterhegg.eu/>`_, Vogel Convention Center, Würzburg
 
 Februar 2018
 ------------
