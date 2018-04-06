@@ -1,7 +1,7 @@
 ﻿.. title: EH19 kommt nach Wien
 .. slug: eh19_kommt_nach_wien
 .. date: 2018-04-05 23:42:00 CEST
-.. tags: eh19 family ccc
+.. tags: eh19, family, ccc
 .. link:
 .. description: EH19 kommt nach Wien
 .. type: text
@@ -20,6 +20,6 @@ Die Location ist mit Öffis ([ÖPNV/WienerLinien](https://www.wienerlinien.at){:
 ## Keep me posted!
 Updates findet ihr bald auf [eh19.easterhegg.eu](https://eh19.easterhegg.eu){:target="_blank"} und via Twitter (@c3wien, @easterhegg).
 
-## Referenzen:
+## Fußnoten:
 [^1]: ausgenommen davon sind verständlicherweise Instituts-/Büroräumlichkeiten. 
 [^2]: nahe Stationen sind Taubstummengasse (U1), Karlsplatz (U1, U2, U4) und Paulanergasse (Bim aka Straßenbahn Linien 1, 62 und Badner Bahn/WLB)
