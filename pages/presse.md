@@ -12,6 +12,8 @@
 ## 26. Februar 2018
 Futurezone.at - [Hunderte protestieren gegen das Überwachungspaket](https://futurezone.at/amp/netzpolitik/hunderte-protestieren-gegen-das-ueberwachungspaket/400005062){:target="_blank"}
 
+## 05. Februar 2018
+Radio Dispositiv - [Darknet – Buzzword oder Bedrohung?](https://cba.fro.at/359561){:target="_blank"}
 
 
 ***

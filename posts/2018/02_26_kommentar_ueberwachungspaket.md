@@ -7,8 +7,6 @@
 .. type: text
 .. previewimage: /assets/images/preview-card.jpg
 
-&nbsp;
-
 # Chaos Computer Club Wien (C3W) zum Überwachungspaket 2018
 
 Der Chaos Computer Club Wien (C3W) hat bereits 2017 mehrere Stellungnahmen zum Überwachungspaket der Koalitionsregierung sowie des geplanten Staatstrojaners 
