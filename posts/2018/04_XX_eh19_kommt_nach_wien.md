@@ -7,8 +7,8 @@
 .. type: text
 .. previewimage: /assets/images/preview-card.jpg
 
-> *Hoch die Hasen!*
-** Hannah Acker **
+> *Hoch die Hasen!* <br/>
+** - Hannah Acker **
 
 Hurra, hurra, der Kobold mit ... ach nein, Moment. Egal. Wir freuen uns jedenfalls riesig, die Easterhegg 2019 wieder in Wien zu haben! Wir haben die letzten Jahre fleißig mit der PrivacyWeek geübt und trauen uns jetzt auch, ein family-Event zu veranstalten.
 
