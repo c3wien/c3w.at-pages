@@ -5,7 +5,7 @@
 .. tags:
 .. link:
 .. description: Der Chaos Computer Club Wien ist eine Gemeinschaft von Menschen, die sich grenzüberschreitend für Informationsfreiheit einsetzt, den kritischen Umgang mit elektronischen Medien sowie der Risiken und Nebenwirkungen der elektronischen Kommunikation und die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung fördert.
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 # Home
 

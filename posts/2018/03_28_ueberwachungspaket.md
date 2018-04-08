@@ -5,7 +5,7 @@
 .. link:
 .. description: Stellungnahme des C3W zum Überwachungspaket 2018/1
 .. type: text
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 [Vollständige Stellungnahme](link:///files/publications/20180328_ueberwachungspaket.pdf){:target="_blank"} *(pdf, 7 Seiten)*
 

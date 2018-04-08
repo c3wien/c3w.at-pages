@@ -5,7 +5,7 @@
 .. link:
 .. description: Chaos Computer Club Wien (C3W) zum Überwachungspaket 2018
 .. type: text
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 # Chaos Computer Club Wien (C3W) zum Überwachungspaket 2018
 
