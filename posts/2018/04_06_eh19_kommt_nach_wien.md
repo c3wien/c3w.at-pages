@@ -5,7 +5,7 @@
 .. link:
 .. description: EH19 kommt nach Wien
 .. type: text
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 > *Hoch die Hasen!* <br/>
 ** - Hannah Acker **
