@@ -6,8 +6,6 @@
 .. description: Position beziehen gegen Rechts
 .. type: text
 
-&nbsp;
-
 # Position beziehen gegen Rechts
 
 ## (I) Die Ausgangslage

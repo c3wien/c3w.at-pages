@@ -4,9 +4,11 @@
 .. tags:
 .. link:
 .. description: Chaos macht Schule - CmS - eine Bildungsinitiative des Chaos Computer Clubs
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 ## Eine Bildungsinitiative des Chaos Computer Clubs
+
+![Chaos macht Schule](/files/images/CmS.png)
 
 *Chaos macht Schule* ist eine Initiative des Chaos Computer Clubs, die mit verschiedenen Bildungsinstitutionen zusammenarbeiten. Ziel des Projekts ist es, Schüler_Innen, Eltern und Lehrer_Innen in den Bereichen Medienkompetenz und Technikverständnis zu stärken und einen Blick hinter die Kulissen der digitalen Welt zu ermöglichen. 
 

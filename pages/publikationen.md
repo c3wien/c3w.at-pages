@@ -5,7 +5,7 @@
 .. tags:
 .. link:
 .. description: Publikationen des Chaos Computer Clubs Wien
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 # 2017
 

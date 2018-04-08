@@ -4,7 +4,7 @@
 .. date: 2016/11/07 01:08:53
 .. title: 
 .. slug: events
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit elektronischen Medien ein, betrachtet Risiken und Nebenwirkungen der elektronischen Kommunikation und fördert die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung. Gemeinsam mit eigenen Veranstaltungen soll diese Seite einen Überblick bieten.
 
@@ -14,7 +14,6 @@ kommende Events
 
 April 2018
 ----------
-* 2018-04-06T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-04-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2018-04-20/2018-04-21: `Linuxwochen Eisenstadt 2018 <https://www.linuxwochen.at/>`_, FH Burgenland, Eisenstadt
 * 2018-04-27/2018-04-28: `Linuxtage Graz 2018 <https://linuxtage.at/>`_, FH Joanneum, Graz
@@ -49,6 +48,10 @@ August 2018
 
 vergangene Events
 =================
+
+April 2018
+----------
+* 2018-04-06T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 
 März 2018
 ---------

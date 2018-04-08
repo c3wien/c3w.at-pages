@@ -4,7 +4,7 @@
 .. tags:
 .. link:
 .. description:
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 <p>Verantwortlich für den Inhalt dieser Website ist der Chaos Computer Club Wien (C3W), ZVR-Zahl 656204875.</p>
 

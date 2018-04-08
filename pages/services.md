@@ -4,7 +4,7 @@
 .. tags:
 .. link:
 .. description:
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 # Öffentliche Online Services
 Der Chaos Computer Club Wien (C3W) betreibt zum eigenen Zwecke, aber auch für

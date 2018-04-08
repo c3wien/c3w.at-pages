@@ -4,7 +4,7 @@
 .. tags:
 .. link:
 .. description:
-.. previewimage: /assets/images/preview-card.jpg
+.. previewimage: /assets/images/preview-card.png
 
 # Chaosnahe Hackspaces und Vereine
 

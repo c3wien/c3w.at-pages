@@ -6,14 +6,14 @@
 .. description: Stellungnahme zum Entwurf des Überwachungspaketes 2017
 .. type: text
 
-&nbsp;
-
 Stellungnahme des Chaos Computer Club Wien (C3W) zum *„Bundesgesetz, mit
 dem das Sicherheitspolizeigesetz, das Bundesstraßen-Mautgesetz 2002, die
 Straßenverkehrsordnung 1960 und das Telekommunikationsgesetz 2003
 geändert werden"* sowie dem *„Bundesgesetz, mit dem die
 Strafprozessordnung 1975 geändert wird
 (Strafprozessrechtsänderungsgesetz 2017)“*
+
+<!-- TEASER_END -->
 
 ## *Präambel*
 
@@ -34,7 +34,6 @@ welch flüchtiges Gut Rechtsstaatlichkeit ist. Die gewählten
 Volksvertreter schränken - Handlangern der Terroristen gleich - die
 demokratischen Rechte ein und arbeiten gezielt am Abbau der Demokratie.
 
-<!-- TEASER_END -->
 
 Was wir brauchen, ist Sicherheit statt Überwachung: die Sicherheit, dass
 Grund- und Menschenrechte unter allen Umständen geschützt und
