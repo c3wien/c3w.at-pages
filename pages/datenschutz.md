@@ -19,7 +19,7 @@ Verantwortlich für den Schutz der personenbezogenen Daten ist der Chaos Compute
 datenschutz @ c3w . at
 
 
-## Websiten
+## Webseiten
 Auf den Websiten des C3W wird kein Tracking verwendet. Es werden keinerlei personenbezogene Daten erfasst. Auch IP-Adressen werden nicht geloggt.
 
 
@@ -36,7 +36,7 @@ Als Verein bieten wir [öffentliche Services](/services) an. Diese liegen ebenfa
 
 ### CryptPads
 [CryptPad](https://pads.c3w.at/)
-Von den Cryptpads sehen wir auf dem Server nur, dass sie existieren, jedes einzelne davon ist für uns jedoch nur ein verschlüselter "Blob", also ein unlesbarer Zeichensalat. Auf entschlüsselte Inhalte von Pads, Umfragen, etc. kannst nur Du selbst zugreifen sowie Personen mit denen Du den Link dazu selbst geteilt hast. Am Server können keinerlei Inhalte oder Account-Namen eingesehen werden. Wenn ein Pad ein Ablaufdatun gesetzt hat oder keinem Account zugeordnet ist, wird ein Pad spätestens nach Ablauf von sechs Monaten gelöscht. Alle anderen Pads bleiben auf dem Server bis der Ersteller sie löscht.
+Von den Cryptpads sehen wir auf dem Server nur, dass sie existieren, jedes einzelne davon ist für uns jedoch nur ein verschlüselter "Blob", also ein unlesbarer Zeichensalat. Auf entschlüsselte Inhalte von Pads, Umfragen, etc. kannst nur Du selbst zugreifen sowie Personen mit denen Du den Link dazu selbst geteilt hast. Am Server können keinerlei Inhalte oder Account-Namen eingesehen werden. Wenn ein Pad ein Ablaufdatum gesetzt hat oder keinem Account zugeordnet ist, wird ein Pad spätestens nach Ablauf von sechs Monaten gelöscht. Alle anderen Pads bleiben auf dem Server bis der Ersteller sie löscht.
 
 Zweck der Verarbeitung: Zurverfügungstellung verschlüsselter Pads
 Rechtsgrundlage: Vertragserfüllung (Art. 6.1 b)
