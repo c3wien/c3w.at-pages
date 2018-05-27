@@ -34,5 +34,5 @@ kommt einfach bei einem der Treffen vorbei. Unsere [Statuten](/statuten/) kannst
 * Bei den Treffen einfach vorbeikommen: im [Metalab](https://metalab.at) 
 ([Rathausstraße 6, A-1010 Wien](https://www.openstreetmap.org/way/345700386)) <br/>
 * Mail: buero(@)c3w.at <br/>
-* offizielle [Mailingliste](https://lists.metalab.at/mailman/listinfo/ccc) <br/>
+* offizielle [Mailingliste](https://lists.c3w.at/postorius/lists/public.lists.c3w.at/) <br/>
 * Krisennummer gibt es <strike>derzeit</strike> keine.

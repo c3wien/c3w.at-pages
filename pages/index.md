@@ -14,4 +14,4 @@ Der Chaos Computer Club Wien (C3W) ist eine Gemeinschaft von Menschen, unabhäng
 Wir verstehen uns daher bei Themen mit technologischem Hintergrund als Vertreter der Zivilgesellschaft.
 
 * Twitter: [@c3wien](https://twitter.com/c3wien)
-* Mailingliste: [ccc@lists.metalab.at](https://lists.metalab.at/mailman/listinfo/ccc)
+* Mailingliste: [public@lists.c3w.at](https://lists.c3w.at/postorius/lists/public.lists.c3w.at/)
