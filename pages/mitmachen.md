@@ -30,6 +30,7 @@ kommt einfach bei einem der Treffen vorbei. Unsere [Statuten](/statuten/) kannst
 
 
 # Kontakt
+* Mastodon: [@c3wien](https://chaos.social/@c3wien) <br/>
 * Twitter: [@c3wien](https://twitter.com/c3wien) <br/>
 * Bei den Treffen einfach vorbeikommen: im [Metalab](https://metalab.at) 
 ([Rathausstraße 6, A-1010 Wien](https://www.openstreetmap.org/way/345700386)) <br/>
