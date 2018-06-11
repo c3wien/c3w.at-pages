@@ -14,21 +14,21 @@ kommende Events
 
 Mai 2018
 --------
-* 2018-05-15T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-05-15T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Juni 2018
 ---------
-* 2018-06-01T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
-* 2018-06-19T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-06-01T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
+* 2018-06-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 Juli 2018
 ---------
-* 2018-07-06T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
-* 2018-07-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-07-06T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
+* 2018-07-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 August 2018
 -----------
-* 2018-08-21T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-08-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 
 |
@@ -42,14 +42,14 @@ vergangene Events
 
 Mai 2018
 --------
-* 2018-05-04T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
+* 2018-05-04T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-05-03/2018-05-05: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, FH Technikum, Wien
 * 2018-05-10/2018-05-13: `Gulaschprogrammiernacht 18 <https://entropia.de/GPN18>`_, ZKM, Karlsruhe
 
 April 2018
 ----------
-* 2018-04-06T19:00:00+01:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
-* 2018-04-17T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-04-06T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
+* 2018-04-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2018-04-20/2018-04-21: `Linuxwochen Eisenstadt 2018 <https://www.linuxwochen.at/>`_, FH Burgenland, Eisenstadt
 * 2018-04-27/2018-04-28: `Linuxtage Graz 2018 <https://linuxtage.at/>`_, FH Joanneum, Graz
 
