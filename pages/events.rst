@@ -28,7 +28,6 @@ Juli 2018
 
 August 2018
 -----------
-* 2018-08-11/2018-08-17: `KDE Akademy 2018 <https://akademy.kde.org/2018/>`_, Neues EI, TU Wien, Wien
 * 2018-08-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
 
