@@ -14,7 +14,7 @@ Hurra, hurra, der Kobold mit ... ach nein, Moment. Egal. Wir freuen uns jedenfal
 
 <!-- TEASER_END -->
 ## Was, wo, wie?
-Der/die/das Easterhegg 2019 wird von 19. bis 22.4.2019 im Neuen Elektrischen Institut der [TU Wien](https://www.tuwien.ac.at/){:target="_blank"} (["Campus Gußhaus"](https://www.gut.tuwien.ac.at/index.php?id=15178){:target="_blank"}, Gußhausstraße 27-29, 1040 Wien) stattfinden. Dank Unterstützung durch die Hochschüler\_innenschaft an der TU haben wir das ganze Gebäude für uns. [^1]
+Der/die/das Easterhegg 2019 wird von 19. bis 22.4.2019 im Neuen Elektrotechnischen Institut „Das neue EI“ der [TU Wien](https://www.tuwien.ac.at/){:target="_blank"} (["Campus Gußhaus"](https://www.gut.tuwien.ac.at/index.php?id=15178){:target="_blank"}, Gußhausstraße 27-29, 1040 Wien) stattfinden. Dank Unterstützung durch die Hochschüler\_innenschaft an der TU haben wir das ganze Gebäude für uns. [^1]
 
 Wie schon in unserer [Präsentation](link:///files/publications/eh19_vorstellung.pdf){:target="_blank"} (hauptsächlich bunte Bilder™️, PDF, ~3 MB) am Easterhegg 2018 vorgestellt, stehen uns 4 große Vortragsräume (Hörsäle EI 7-10) sowie mehrere Seminarräume (für Workshops und *OC) zur Verfügung.
 
