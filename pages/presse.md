@@ -9,6 +9,9 @@
 
 # 2018
 
+## 12. September 2018
+Futurezone.at - [Urheberrecht: EU-Parlamentarier stimmen für Upload-Filter und Leistungsschutzrecht](https://futurezone.at/netzpolitik/urheberrecht-eu-parlamentarier-stimmen-fuer-upload-filter-und-leistungsschutzrecht/400116158){:target="_blank"}
+
 ## 26. Februar 2018
 Futurezone.at - [Hunderte protestieren gegen das Überwachungspaket](https://futurezone.at/amp/netzpolitik/hunderte-protestieren-gegen-das-ueberwachungspaket/400005062){:target="_blank"}
 
