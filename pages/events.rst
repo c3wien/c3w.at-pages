@@ -11,25 +11,15 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 kommende Events
 ===============
 
+September 2018
+______________
 
-Mai 2018
---------
-* 2018-05-15T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-09-18T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 
-Juni 2018
----------
-* 2018-06-01T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
-* 2018-06-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
-
-Juli 2018
----------
-* 2018-07-06T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
-* 2018-07-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
-
-August 2018
------------
-* 2018-08-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
-
+Oktober 2018
+____________
+* 2018-10-16T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+* 2018-10-22/2018-10-28: `PrivacyWeek <https://privacyweek.at/>`_ Privatsphäre für alle!
 
 |
 
@@ -40,8 +30,29 @@ August 2018
 vergangene Events
 =================
 
+September 2018
+______________
+* 2018-09-07T19:00:00+02:00: C3W Stammtisch, `mittendrin <https://www.vinzirast.at/projekte/lokal-mittendrin/>`_
+
+
+August 2018
+-----------
+* 2018-08-21T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
+Juli 2018
+---------
+* 2018-07-06T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
+* 2018-07-17T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
+
+Juni 2018
+---------
+* 2018-06-01T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
+* 2018-06-19T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
+
 Mai 2018
 --------
+* 2018-05-15T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2018-05-04T19:00:00+02:00: C3W Stammtisch, `Käuzchen <http://käuzchen.at/>`_
 * 2018-05-03/2018-05-05: `Linuxwochen Wien <https://www.linuxwochen.at/Wien/>`_, FH Technikum, Wien
 * 2018-05-10/2018-05-13: `Gulaschprogrammiernacht 18 <https://entropia.de/GPN18>`_, ZKM, Karlsruhe
