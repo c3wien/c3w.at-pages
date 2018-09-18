@@ -7,9 +7,9 @@
 .. previewimage: /assets/images/preview-card.png
 
 # Monatliche Treffen
-Wenn du mitmachen möchtest, komm einfach zu einem unserer monatliches Treffen namens 'Chaos. Communication. Caffeine.' vorbei.
-Sie finden jeden 3. Dienstag im Monat, meistens im Metalab, statt.
-Wir schicken die Einladungen dazu auf unserer öffentlichen Mailingliste aus.
+Wenn du mitmachen möchtest, komm einfach zu einem unserer monatlichen Treffen namens 'Chaos. Communication. Caffeine.' vorbei.
+Wir treffen einander häufig im Metalab, jedenfalls am 3. Dienstag jedes Monats.
+Die Einladungen dazu werden auf unserer öffentlichen Mailingliste ausgeschickt.
 
 
 # Club
@@ -21,7 +21,7 @@ Der C3W verfügt gemäß österreichischen Vereinsrechts über alle Ämter,
 die ein Verein besitzen muss. In der täglichen Arbeit ist der Verein hingegen 
 sehr flach organisiert. Wir legen einen Großteil der Verantwortung und 
 Aktivitäten in die Hände der Mitglieder, so unter anderem auch die 
-Organisation der monatlichen 'Chaos. Communication. Caffeine.' Treffen im Metalab.
+Organisation der monatlichen 'Chaos. Communication. Caffeine.' Treffen.
 
 
 # History
@@ -35,7 +35,7 @@ kommt einfach bei einem der Treffen vorbei. Unsere [Statuten](/statuten/) kannst
 
 
 # Kontakt
-* Mastodon: [@c3wien](https://chaos.social/@c3wien) <br/>
+* Mastodon: [@c3wien@chaos.social](https://chaos.social/@c3wien) <br/>
 * Twitter: [@c3wien](https://twitter.com/c3wien) <br/>
 * Bei den Treffen einfach vorbeikommen: im [Metalab](https://metalab.at) 
 ([Rathausstraße 6, A-1010 Wien](https://www.openstreetmap.org/way/345700386)) <br/>
