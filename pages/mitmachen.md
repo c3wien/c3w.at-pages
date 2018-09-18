@@ -6,6 +6,11 @@
 .. description:
 .. previewimage: /assets/images/preview-card.png
 
+# Monatliche Treffen
+Wenn du mitmachen möchtest, komm einfach zu einem unserer monatliches Treffen namens 'Chaos. Communication. Caffeine.' vorbei.
+Sie finden jeden 3. Dienstag im Monat, meistens im Metalab, statt.
+Wir schicken die Einladungen dazu auf unserer öffentlichen Mailingliste aus.
+
 
 # Club
 Der Chaos Computer Club ist dezentral in regionalen Vereinen organisiert, die 
