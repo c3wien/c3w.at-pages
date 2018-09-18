@@ -7,7 +7,7 @@
 .. previewimage: /assets/images/preview-card.png
 
 # Monatliche Treffen
-Wenn du mitmachen möchtest, komm einfach zu einem unserer monatlichen Treffen namens 'Chaos. Communication. Caffeine.' vorbei.
+Wenn du mitmachen möchtest, komm einfach zu einem unserer monatlichen Treffen namens 'Chaos. Communication. Caffeine.' vorbei. <br/>
 Wir treffen einander häufig im Metalab, jedenfalls am 3. Dienstag jedes Monats.
 Die Einladungen dazu werden auf unserer öffentlichen Mailingliste ausgeschickt.
 
