@@ -9,6 +9,9 @@
 
 # 2018
 
+## 25. September 2018
+pressetext.com - [Wissen schützt: Begriffsverwirrung um Sicherheit und Datenschutz - DeepSec Konferenz und Privacy Week bündeln Kräfte zur Weiterbildung von Fachpersonal](https://www.pressetext.com/news/20180925007){:target="_blank"}
+
 ## 12. September 2018
 Futurezone.at - [Urheberrecht: EU-Parlamentarier stimmen für Upload-Filter und Leistungsschutzrecht](https://futurezone.at/netzpolitik/urheberrecht-eu-parlamentarier-stimmen-fuer-upload-filter-und-leistungsschutzrecht/400116158){:target="_blank"}
 
