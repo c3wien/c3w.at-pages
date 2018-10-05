@@ -136,7 +136,7 @@ Zusammenfassend weisen wir nochmals darauf hin:
 > zweifeln." Der Präventivstaat ist ein Nimmersatt. Der Bürger braucht
 > keinen Schutz durch den Staat, sondern Schutz vor dem Staat."
 >
-> (Ilija Trojanow - [derstandard.at/3265402/Mit-Sicherheit-untergehen](derstandard.at/3265402/Mit-Sicherheit-untergehen))
+> (Ilija Trojanow - [https://derstandard.at/3265402/Mit-Sicherheit-untergehen](https://derstandard.at/3265402/Mit-Sicherheit-untergehen))
 
 __Überwachung schafft Angst, nicht Sicherheit - subjektiv empfunden,
 objektiv berechtigt.__

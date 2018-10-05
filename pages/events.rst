@@ -133,7 +133,7 @@ Mai 2017
 
 April 2017
 ----------
-* 2017-04-14/2017-04-17: `Easterhegg <https://eh17.easterhegg.eu/dev/Random>`_, Mühlheim am Main (Frankfurt)
+* 2017-04-14/2017-04-17: `Easterhegg <https://eh17.easterhegg.eu/dev/Random.html>`_, Mühlheim am Main (Frankfurt)
 * 2017-04-18T19:00:00+01:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
 * 2017-04-20/2017-04-21: `Linuxwochen Eisenstadt <https://www.linuxwochen.at/linuxwochen-eisenstadt-summary>`_, Fachhochschule Burgenland in Eisenstadt
 * 2017-04-28/2017-04-29: `Linuxtage Graz <https://linuxtage.at/>`_, FH Joanneum Graz
