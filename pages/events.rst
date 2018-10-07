@@ -19,7 +19,8 @@ ______________
 Oktober 2018
 ____________
 * 2018-10-16T19:00:00+02:00: `Chaos. Communication. Caffeine. <https://metalab.at/wiki/CCC_Wien>`_, `Metalab Wien <https://metalab.at>`_
-* 2018-10-18T19:00:00+02:00: Außerordentliche Generalversammlung des C3W zur `Änderung der Statuten <https://pads.c3w.at/pad/#/2/pad/view/Kc3MXPzndvLeHpV7LO7tEJKNgB9cOaNAnx1EQXFnGpw/>`_.
+* 2018-10-18T19:00:00+02:00: Außerordentliche Generalversammlung des C3W zur `Änderung der Statuten <https://pads.c3w.at/pad/#/2/pad/view/Kc3MXPzndvLeHpV7LO7tEJKNgB9cOaNAnx1EQXFnGpw/>`_, `Metalab Wien <https://metalab.at>`_
+
 * 2018-10-22/2018-10-28: `PrivacyWeek <https://privacyweek.at/>`_ Privatsphäre für alle!
 
 |
