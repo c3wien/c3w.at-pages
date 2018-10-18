@@ -8,32 +8,23 @@
 .. type: text
 .. previewimage: /assets/images/preview-card.png
 
-per 2016-03-29    
+per 2018-10-18    
+
+## Präambel
+
+Die Informationsgesellschaft unserer Tage ist ohne Computer nicht mehr denkbar. Die Einsatzmöglichkeiten der automatisierten Datenverarbeitung und Datenübermittlung bergen Chancen, aber auch Gefahren für den Einzelnen und für die Gesellschaft. Informations- und Kommunikationstechnologien verändern das Verhältnis Mensch-Maschine und der Menschen untereinander.
+Der C3W ist eine Gemeinschaft von Menschen, unabhängig von Geschlecht, Alter, Religion oder Weltanschauung, sexueller Orientierung, ethnischer Zugehörigkeit sowie gesellschaftlicher Stellung, die sich grenzüberschreitend für Informationsfreiheit einsetzt, den kritischen Umgang mit elektronischen Medien sowie der Risiken und Nebenwirkungen der elektronischen Kommunikation und die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung fördert.
 
 ## § 1 Name, Sitz und Tätigkeitsbereich
 Der Verein trägt den Namen „Chaos Computer Club Wien“ (C3W). Der Sitz ist in Wien, der Verein erstreckt seine Tätigkeit weltweit. Die Errichtung von Zweigvereinen ist zulässig.
 
 ## § 2 Vereinszweck
-Der Club ist gemeinnützig und nicht auf Gewinn gerichtet.   
-Die Informationsgesellschaft unserer Tage ist ohne Computer nicht mehr denkbar. Die Einsatzmöglichkeiten der automatisierten Datenverarbeitung und Datenübermittlung bergen Chancen, aber auch Gefahren für den Einzelnen und für die Gesellschaft. Informations- und Kommunikationstechnologien verändern das Verhältnis Mensch-Maschine und der Menschen untereinander.   
-Der C3W ist eine Gemeinschaft von Menschen, unabhängig von Geschlecht, Alter, Religion oder Weltanschauung, sexueller Orientierung, ethnischer Zugehörigkeit sowie gesellschaftlicher Stellung, die sich grenzüberschreitend für Informationsfreiheit einsetzt, den kritischen Umgang mit elektronischen Medien sowie der Risiken und Nebenwirkungen der elektronischen Kommunikation und die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung fördert.   
+Der Club ist gemeinnützig und nicht auf Gewinn gerichtet.
 
-1. Der Club fördert und unterstützt Vorhaben der Bildung und Volksbildung in Hinsicht neuer technischer Entwicklungen, sowie Kunst und Kultur im Sinne der Präambel oder führt diese durch:
-
-    * Regelmäßige öffentliche Treffen und Informationsveranstaltungen.
-    * Veranstaltungen und/oder Förderung internationaler Kongresse, Treffen, Konferenzen, sowie Kunstprojekte.
-    * Herausgabe von Zeitschriften (on- & offline).
-    * Öffentlichkeitsarbeit in allen Medien.
-    * Arbeits- und Erfahrungsaustauschkreise.
-    * Informationsaustausch mit den in der Gesetzgebung vorgesehenen Organen
-    * Förderung des schöpferisch-kritischen Umgangs mit Technologie.
-    * Hilfestellung und Beratung bei technischen und rechtlichen Fragen im Rahmen der gesetzlichen Möglichkeiten für die Mitglieder.
-    * Zusammenarbeit und Austausch mit nationalen und internationalen Gruppierungen, deren Ziele mit denen des Clubs vereinbar sind.
-    * Förderung von wissenschaftlichen Arbeiten im Sinne des Vereinszwecks
-    * Veranstaltungen und Projekte, die sich speziell an Jugendliche richten.
-
+1. Der Club fördert und unterstützt Vorhaben der Bildung und Volksbildung in Hinsicht neuer technischer Entwicklungen, sowie Kunst, Kultur, Wissenschaft und Konsumentenschutz im Sinne der Präambel
 2. Der Club verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke, er dient ausschließlich und unmittelbar der Volksbildung zum Nutzen der Allgemeinheit. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Clubs. Niemand darf durch Ausgaben, die dem Zwecke des Clubs fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
-3. Der Club hilft Initiativen, die auf Grund der Verfolgung dieser oder ähnlicher Ziele staatlicher Unterdrückung und polizeilicher, gerichtlicher oder wirtschaftlicher Verfolgung ausgesetzt sind, insbesondere bei der Aufrechterhaltung ihrer technischen und finanziellen Infrastruktur, um die Fortsetzung ihrer Tätigkeit zu ermöglichen, soweit dies im Interesse einer fairen rechtsstaatlichen Behandlung erforderlich ist. Werden im Rahmen der Vereinstätigkeit relevante Erfahrungen und Erkenntnisse gewonnen, werden diese der Öffentlichkeit zur Verfügung gestellt.
+3. Der Club setzt und unterstützt Initiativen zur Verbesserung und Verbreitung von Grund- und Menschenrechten oder demokratischen Grundprinzipien sowie des Demokratieverständnisses, insbesondere im Zusammenhang mit neuen Technologien
+4. Der Club hilft Initiativen, die auf Grund der Verfolgung dieser oder ähnlicher Ziele staatlicher Unterdrückung und polizeilicher, gerichtlicher oder wirtschaftlicher Verfolgung ausgesetzt sind, insbesondere bei der Aufrechterhaltung ihrer technischen und finanziellen Infrastruktur, um die Fortsetzung ihrer Tätigkeit zu ermöglichen, soweit dies im Interesse einer fairen rechtsstaatlichen Behandlung erforderlich ist. Werden im Rahmen der Vereinstätigkeit relevante Erfahrungen und Erkenntnisse gewonnen, werden diese der Öffentlichkeit zur Verfügung gestellt.
 
 ## § 3 Mittel zur Erreichung des Vereinszwecks
 
@@ -46,29 +37,32 @@ Ideelle Mittel:
 3. Herausgabe von Zeitschriften (on- & offline).
 4. Öffentlichkeitsarbeit in allen Medien.
 5. Arbeits- und Erfahrungsaustauschkreise.
-6. Sicherstellung und Ausbau des Grundrechts auf informationelle Selbstbestimmung
-7. Informationsaustausch mit den in der Verfassung vorgesehenen Legislativ- und Kontrollorganen, insbesondere zum Thema Digitale Kommunikation
-8. Förderung des schöpferisch-kritischen Umgangs mit Technologie.
-9. Hilfestellung und Beratung bei technischen und rechtlichen Fragen im Rahmen der gesetzlichen Möglichkeiten für die Mitglieder.
-10. Zusammenarbeit und Austausch mit nationalen und internationalen Gruppierungen, deren Ziele mit denen des C3W vereinbar sind.
-11. Förderung von wissenschaftliche Arbeiten im Sinne des Vereinszwecks
-12. Veranstaltungen und Projekte, die sich speziell an Jugendliche richten.
-13. Beschaffung und Verbreitung von Informationen, insbesondere im Internet aber auch in Druckwerken;
-14. Sicherung und Weiterverbreitung von mit Zensur und Unterdrückung bedrohten Informationen und Dokumenten;
-15. Zurverfügungstellung von technischen Einrichtungen und sonstige Unterstützung einschließlich Spenden an von Zensur und Unterdrückung bedrohte Personen und Organisationen;
-16. Veranstaltung von Diskussionen, Seminaren, Vorträgen, Sportveranstaltungen und dergleichen;
-17. Presseaussendungen und Medienarbeit;
-18. Betrieb von Informations- und Internetplattformen;
-19. Gründung von und Beteiligung an gemeinnützigen Kapitalgesellschaften;
-20. Mitgliedschaft in anderen Vereinen und Organisationen.
+6. Förderung des schöpferisch-kritischen Umgangs mit Technologie.
+7. Sicherstellung und Ausbau des Grundrechts auf informationelle Selbstbestimmung
+8. Informationsaustausch mit den in der Gesetzgebung vorgesehenen Organen
+9. Informationsaustausch mit den in der Verfassung vorgesehenen Legislativ- und Kontrollorganen, insbesondere zum Thema Digitale Kommunikation
+10. Durchführung und Unterstützung von Fachdiskussionen und Informationsaustausch im Sinne des Vereinszwecks
+11. Hilfestellung und Beratung bei technischen und rechtlichen Fragen im Rahmen der gesetzlichen Möglichkeiten für die Mitglieder.
+12. Zusammenarbeit und Austausch mit nationalen und internationalen Gruppierungen, deren Ziele mit denen des C3W vereinbar sind.
+13. Förderung von wissenschaftlichen Arbeiten im Sinne des Vereinszwecks
+14. Veranstaltungen und Projekte, die sich speziell an Jugendliche richten.
+15. Beschaffung und Verbreitung von Informationen, insbesondere im Internet aber auch in Druckwerken;
+16. Sicherung und Weiterverbreitung von mit Zensur und Unterdrückung bedrohten Informationen und Dokumenten;
+17. Zurverfügungstellung von technischen Einrichtungen und sonstige Unterstützung einschließlich Spenden an von Zensur und Unterdrückung bedrohte Personen und Organisationen;
+18. Veranstaltung von Diskussionen, Seminaren, Vorträgen, Sportveranstaltungen und dergleichen;
+19. Presseaussendungen und Medienarbeit;
+20. Betrieb von Informations- und Internetplattformen;
+21. Gründung von und Beteiligung an gemeinnützigen Kapitalgesellschaften;
+22. Mitgliedschaft in anderen Vereinen und Organisationen.
 
 Die erforderlichen materiellen Mittel sollen aufgebracht werden durch:
 
 1. Mitgliedsbeiträge;
-2. Spenden, öffentliche Förderungen, Sammlungen, Vermächtnisse und sonstige Zuwendungen;
+2. Spenden, öffentliche Förderungen, Sammlungen, Vermächtnisse, Subventionen und sonstige Zuwendungen;
 3. Erträgnisse aus Publikationen und Veranstaltungen;
-4. Sponsorbeiträge und Inseratenerträge;
-5. Erträge aus Beteiligungen.
+4. Erlöse aus dem Verkauf von Vereinsartikeln;
+5. Sponsorbeiträge und Inseratenerträge;
+6. Erträge aus Beteiligungen und Vereinsvermögen.
 
 ## § 4 Arten der Mitgliedschaft
 
@@ -82,8 +76,7 @@ Ehrenmitglieder sind Personen, die im Rahmen der Generalversammlung zu Ehrenmitg
 ## § 5 Erwerb der Mitgliedschaft
 1. Mitglieder des Vereins können alle physischen Personen, sowie juristische Personen und rechtsfähige Personengesellschaften werden. Die Mitgliedsrechte von juristischen Personen als außerordentliche Mitglieder werden durch eine namhaft gemachte natürliche Person wahrgenommen.
 2. Über die Aufnahme von ordentlichen, fördernden und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
-3. Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen. Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und außerordentlicher Mitglieder bis dahin durch die Gründer des Vereins.
-4. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag durch die Generalversammlung.
+3. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag durch die Generalversammlung.
 
 ## § 6 Beendigung der Mitgliedschaft
 1. Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt oder durch Ausschluss.
