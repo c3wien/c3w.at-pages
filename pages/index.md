@@ -13,6 +13,6 @@
 Der Chaos Computer Club Wien (C3W) ist eine Gemeinschaft von Menschen, unabhängig von Geschlecht, Alter, Religion oder Weltanschauung, sexueller Orientierung, ethnischer Zugehörigkeit sowie gesellschaftlicher Stellung, die sich grenzüberschreitend für Informationsfreiheit einsetzt, den kritischen Umgang mit elektronischen Medien sowie der Risiken und Nebenwirkungen der elektronischen Kommunikation und die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung fördert.
 Wir verstehen uns daher bei Themen mit technologischem Hintergrund als Vertreter der Zivilgesellschaft.
 
-* Mastodon: [@c3wien@chaos.social](https://chaos.social/@c3wien)
+* Mastodon: <a rel="me" href="https://chaos.social/@C3Wien">@C3Wien@chaos.social</a>
 * Twitter: [@c3wien](https://twitter.com/c3wien)
 * Mailingliste: [public@lists.c3w.at](https://lists.c3w.at/postorius/lists/public.lists.c3w.at/)
