@@ -25,7 +25,7 @@ Wir verstehen uns daher bei Themen mit technologischem Hintergrund als Vertreter
         <h2><a href="/aktuelles/">Aktuelles</a></h2>
         {{% post-list stop=5 template=post_list_index.tpl %}}{{% /post-list %}}
     </div>
-    <div class="col-lg-auto">
+    <div class="col-lg">
         <h2><a href="/events/">kommende Events</a></h2>
         {{% calendar file='calendar/calendar.ical' template=calendar_index.tmpl recurring_month=3 %}}
     </div>
