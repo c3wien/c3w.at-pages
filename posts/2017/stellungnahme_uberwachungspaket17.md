@@ -1,7 +1,7 @@
 .. title: Stellungnahme zum Entwurf des Überwachungspaketes 2017
 .. slug: stellungnahme_uberwachungspaket17
 .. date: 2017-08-21 23:00:00 CEST
-.. tags: Überwachungspaket,Überwachung,Stellungnahme
+.. tags: Überwachungspaket,Überwachung,Stellungnahme,Publikationen
 .. link:
 .. description: Stellungnahme zum Entwurf des Überwachungspaketes 2017
 .. type: text

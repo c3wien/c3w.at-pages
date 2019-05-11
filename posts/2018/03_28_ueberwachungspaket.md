@@ -1,7 +1,7 @@
 .. title: Stellungnahme des C3W zum Überwachungspaket 2018/1
 .. slug: stellungnahme_ueberwachungspaket_2018_1
 .. date: 2018-03-28 23:42:00 CEST
-.. tags: Überwachungspaket,Stellungnahme
+.. tags: Überwachungspaket,Stellungnahme,Publikationen
 .. link:
 .. description: Stellungnahme des C3W zum Überwachungspaket 2018/1
 .. type: text

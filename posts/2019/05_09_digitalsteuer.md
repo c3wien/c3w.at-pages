@@ -1,7 +1,7 @@
 .. title: Stellungnahme des C3W zum Digitalsteuergesetz 2020
 .. slug: stellungnahme_digitalsteuergesetz_2020
 .. date: 2019-05-09 23:42:00 CEST
-.. tags: Digitalsteuergesetz,Digitalsteuer,Stellungnahme,VDS,Vorratsdatenspeicherung
+.. tags: Digitalsteuergesetz,Digitalsteuer,Stellungnahme,VDS,Vorratsdatenspeicherung,Publikationen
 .. link:
 .. description: Stellungnahme des C3W zum Digitalsteuergesetz 2020
 .. type: text

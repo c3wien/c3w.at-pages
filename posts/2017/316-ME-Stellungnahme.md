@@ -1,7 +1,7 @@
 .. title: Stellungnahme zum Ministerialentwurf 316/ME
 .. slug: 316ME_stellungnahme_e-id
 .. date: 2017-05-22 00:00:00 CEST
-.. tags: Stellungnahme,E-Government,E-ID,DSGVO
+.. tags: Stellungnahme,E-Government,E-ID,DSGVO,Publikationen
 .. link:
 .. description: Stellungnahme zum Ministerialentwurf 316/ME
 .. type: text

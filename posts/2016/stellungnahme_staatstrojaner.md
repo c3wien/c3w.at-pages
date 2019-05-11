@@ -1,7 +1,7 @@
 .. title: Stellungnahme zum Staatstrojaner
 .. slug: 192ME_stellungnahme_staatstrojaner
 .. date: 2016-05-13 14:00:00 CEST
-.. tags: Staatstrojaner,Stellungnahme
+.. tags: Staatstrojaner,Stellungnahme,Publikationen
 .. link:
 .. description: Der Chaos Computer Club Wien (C3W) hat in Zusammenarbeit mit dem Chaos Computer Club e.V. (CCC e.V.) dazu eine ausführliche Stellungnahme abgegeben.
 .. type: text
