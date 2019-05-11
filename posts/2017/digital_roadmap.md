@@ -1,7 +1,7 @@
 .. title: Digital Roadmap Austria 2015-2017
 .. slug: digital_roadmap_rip
 .. date: 2017-01-19 13:37:00 CEST
-.. tags:
+.. tags: Digital Roadmap,Kommentar,Fake,Transparenz
 .. link:
 .. description: Vor der Fake-News war die Fake-Bürgerbeteiligung
 .. type: text

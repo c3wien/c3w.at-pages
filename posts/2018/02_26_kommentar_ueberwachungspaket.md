@@ -1,7 +1,7 @@
 .. title: Stoppt das schwarz-blaue Überwachungspaket!
 .. slug: kommentar_ueberwachungspaket_2018
 .. date: 2018-02-26 13:37:00 CEST
-.. tags:
+.. tags: Kommentar,Überwachungspaket,Staatstrojaner
 .. link:
 .. description: Chaos Computer Club Wien (C3W) zum Überwachungspaket 2018
 .. type: text

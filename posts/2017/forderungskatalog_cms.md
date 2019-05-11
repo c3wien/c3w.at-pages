@@ -1,7 +1,7 @@
 .. title: Für eine zeitgemäße digitale Bildung
 .. slug: digitale_bildung
 .. date: 2017-05-12 08:00:00 CEST
-.. tags:
+.. tags: CmS,Chaos macht Schule,Forderungskatalog,Bildung
 .. link:
 .. description: Ein Forderungskatalog des Chaos Computer Club
 .. type: text

@@ -1,7 +1,7 @@
 .. title: Chaos Computer Club Wien und VHS Josefstadt starten Nerd-Café
 .. slug: nerd-cafe-josefstadt
 .. date: 2017-09-07 08:00:00 CEST
-.. tags:
+.. tags: Ankündigung,Nerd-Café,Cryptoparty,Privacy
 .. link:
 .. description: Chaos Computer Club Wien und VHS Josefstadt starten Nerd-Café
 .. type: text

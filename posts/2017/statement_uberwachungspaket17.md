@@ -1,7 +1,7 @@
 .. title: Statement zum Entwurf des Überwachungspaketes 2017
 .. slug: statement_uberwachungspaket17
 .. date: 2017-07-10 18:00:00 CEST
-.. tags:
+.. tags: Überwachungspaket,Überwachung,Statement
 .. link:
 .. description: Statement zum aktuellen Entwurf des Überwachungspaketes 2017
 .. type: text

@@ -1,7 +1,7 @@
 .. title: Digitale Sicherheit betrifft jeden
 .. slug: digitale_sicherheit
 .. date: 2017-05-13 15:00:00 CEST
-.. tags:
+.. tags: Kommentar,Malware,Ransomware,Spionagesoftware,Staatstrojaner
 .. link:
 .. description: Digitale Sicherheit betrifft jeden
 .. type: text

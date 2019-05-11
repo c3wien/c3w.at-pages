@@ -1,7 +1,7 @@
 .. title: Das Regierungsprogramm 2017-2022
 .. slug: regierungsprogramm_17-22
 .. date: 2017-12-18 23:42:00 CEST
-.. tags:
+.. tags: Regierungsprogramm,Kommentar
 .. link:
 .. description: Das Regierungsprogramm 2017-2022: Zurück bis vor die Aufklärung
 .. type: text

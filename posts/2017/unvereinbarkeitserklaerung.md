@@ -1,7 +1,7 @@
 .. title: Unvereinbarkeitserklärung
 .. slug: unvereinbarkeitserklaerung
 .. date: 2017-12-24 19:00:00 CEST
-.. tags: 
+.. tags: Statement,Unvereinbarkeitserklärung,gegen Rechts
 .. link:
 .. description: Position beziehen gegen Rechts
 .. type: text
