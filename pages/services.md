@@ -32,3 +32,8 @@ herzustellen.<br/>
 Das C3W CryptPad ist eine öffentliche Instanz des
 [OpenSource CryptPad Projektes](https://cryptpad.fr/). Den Sourcecode findest Du
 auf [Github](https://github.com/xwiki-labs/cryptpad).
+
+
+## Tor-Relays
+Zur Stärkung von Anonymität und digitaler Selbstverteidigung gegen Tracking 
+betreibt der C3W Tor-Relays.
