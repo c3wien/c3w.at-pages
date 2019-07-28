@@ -17,7 +17,7 @@ Vorratsdatenspeicherung, Videoüberwachung, PRISM, Zugriff auf Konten ohne richt
 
 Der große Zuspruch zur ersten PrivacyWeek des Chaos Computer Club Wien gab uns recht: Das komplexe Thema „Privatsphäre im digitalen Zeitalter“ beschäftigt uns alle: AnwenderInnen, PädagogInnen, Medien, BürgerInnen und Unternehmen. Deshalb gibt es auch 2017 eine PrivacyWeek.
 
-Von 23. bis 29. Oktober beschäftigen wir uns diesmal besonders mit den Daten und Datenspuren, die wir online hinterlassen. Datenhändler, BigData, Anonymisierung von Daten, Tracking sowie Analyse und Auswertung von Nutzerdaten.
+Vom 21. bis 27. Oktober 2019 geht es um: _Dich_. Eine ganze Woche voll Events, Vorträge, Workshops, Projekte und Aktionen im Spannungsfeld zwischen Technik, Politik, Internet und alltäglichem Leben.
 
 Rund um die Big Brother Awards Österreich werden wir euch wieder spannende Vorträge, noch mehr Workshops, Themen- und Fortbildungstage (für Schulen, Developer und Medien) anbieten.
 
