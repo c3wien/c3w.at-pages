@@ -7,17 +7,6 @@
 .. description: Der Chaos Computer Club Wien ist eine Gemeinschaft von Menschen, die sich grenzüberschreitend für Informationsfreiheit einsetzt, den kritischen Umgang mit elektronischen Medien sowie der Risiken und Nebenwirkungen der elektronischen Kommunikation und die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung fördert.
 .. previewimage: /assets/images/preview-card.png
 
-
-
-<br />
-[<img src="files/images/pw19.jpg" class="index-logo" alt="Privacy Week 2019 Banner" >](https://privacyweek.at/)
-[*Deine* Privatsphäre im digitalen Zeitalter:](https://privacyweek.at/) vom 21. bis 27. Oktober 2019 geht es um *Dich*. Eine ganze Woche voll Workshops, Vorträge, Diskussionsrunden und Kunstprojekte zu Sicherheit im Netz, Medienkompetenz und den Themen, die uns in der digitalisierten Welt bewegen.
-
-Tickets bekommst Du [hier](https://pretix.eu/c3w/pw19/), den Fahrplan findest Du [hier](https://fahrplan.privacyweek.at/).
-
-*Die Privacyweek ist eine Veranstaltungsreihe des „Chaos Computer Club Wien (C3W).* <br />
-
----
 # Home
 
 <img src="/assets/images/C3W_RB_neg.png" class="index-logo" alt="C3W Logo">
