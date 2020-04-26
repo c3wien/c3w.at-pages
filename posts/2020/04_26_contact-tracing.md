@@ -1,6 +1,6 @@
 .. title: Gesellschaftliche Aspekte von Contact-Tracing-Apps
 .. slug: gesellschaftliche_aspekte_contact-tracing-apps
-.. date: 2020-04-20 18:00:00 CEST
+.. date: 2020-04-26 19:00:00 CEST
 .. tags: Gesellschaft, Contact-Tracing, Corona, Pandemie, COVID19, Privacy, Grundrechte
 .. link:
 .. description: Gesellschaftliche Aspekte von Contact-Tracing-Apps
@@ -53,6 +53,10 @@ In Südkorea wurde eine Contact-Tracing-App verwendet, die Daten von Mobilfunkan
 Es besteht eine weitere Gefahr der Stigmatisierung oder Diskriminierung gewisser Bevölkerungsgruppen durch die Anwendung von Contact-Tracing-Apps. So wurden in Singapur ganze [Gastarbeiter:innen-Quartiere unter Quarantäne](https://www.derstandard.at/story/2000117021480/ploetzliche-corona-anstieg-in-singapur-auf-gastarbeiter-zurueckzufuehren) gestellt, nachdem dort eine größere Anzahl von Menschen positiv auf das Virus getestet worden war. Werden Einreisen nach Österreich an die Verwendung der App geknüpft, könnte der falsche Eindruck entstehen, die Gefahr würde in erster Linie von „Fremden“ ausgehen, was verstärkt Rassismus Vorschub leisten würde.
 
 Für viele Punkte, die wir hier ansprechen, bieten wir keine Lösungen oder konkreten Handlungsvorschläge; wir möchten keine Schwarz-Weiß-Malerei vornehmen, die Fragestellung der Einführung einer solchen Technologie auf dieser breiten Ebene ist äußerst komplex. Unser Ziel ist entsprechend, die bereits laufenden Diskussionen um diese Facetten anzureichern und damit neue Überlegungen und Gespräche anzuregen.
+
+### Weiterführendes Material
+* [Zusammenfassung des InternetNZ Seminars zum Thema Contact Tracing vom 17. April 2020](https://internetnz.nz/sites/default/files/InternetNZ%20Contact%20Tracing%20Zoom%20notes.pdf)
+* [Gemeinsames Statment von 300 unterzeichnenden Wissenschater:innen zum Thema Contact Tracing vom 19. April 2020](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/sites/regions_france3/files/assets/documents/2020/04/21/lettre_ouverte_aux_gouvernements_signee_par_300_chercheurs_de_25_pays-4775124.pdf)
 
 Chaos Computer Club Wien (C3W), ZVR 656204875
 
