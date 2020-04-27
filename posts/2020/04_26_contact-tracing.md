@@ -55,8 +55,9 @@ Es besteht eine weitere Gefahr der Stigmatisierung oder Diskriminierung gewisser
 Für viele Punkte, die wir hier ansprechen, bieten wir keine Lösungen oder konkreten Handlungsvorschläge; wir möchten keine Schwarz-Weiß-Malerei vornehmen, die Fragestellung der Einführung einer solchen Technologie auf dieser breiten Ebene ist äußerst komplex. Unser Ziel ist entsprechend, die bereits laufenden Diskussionen um diese Facetten anzureichern und damit neue Überlegungen und Gespräche anzuregen.
 
 ### Weiterführendes Material
-* [Zusammenfassung des InternetNZ Seminars zum Thema Contact Tracing vom 17. April 2020](https://internetnz.nz/sites/default/files/InternetNZ%20Contact%20Tracing%20Zoom%20notes.pdf)
-* [Gemeinsames Statment von 300 unterzeichnenden Wissenschater:innen zum Thema Contact Tracing vom 19. April 2020](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/sites/regions_france3/files/assets/documents/2020/04/21/lettre_ouverte_aux_gouvernements_signee_par_300_chercheurs_de_25_pays-4775124.pdf)
+* [Zusammenfassung des InternetNZ-Webinars zum Thema Contact Tracing vom 17. April 2020](https://internetnz.nz/sites/default/files/InternetNZ%20Contact%20Tracing%20Zoom%20notes.pdf)
+* [gemeinsames Statment von 300 unterzeichnenden Wissenschafter:innen zum Thema Contact Tracing vom 19. April 2020](https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/sites/regions_france3/files/assets/documents/2020/04/21/lettre_ouverte_aux_gouvernements_signee_par_300_chercheurs_de_25_pays-4775124.pdf)
+* [_Exit through the App Store?_ – Rapid Evidence Review des Ada Lovelace Institute vom 20. April 2020](https://www.adalovelaceinstitute.org/exit-through-the-app-store-how-the-uk-government-should-use-technology-to-transition-from-the-covid-19-global-public-health-crisis/)
 
 Chaos Computer Club Wien (C3W), ZVR 656204875
 
