@@ -40,4 +40,4 @@ betreibt der C3W Tor-Relays.
 
 ## Dashboard
 Alle öffentlichen und C3W-internen Services und Kontaktmöglichkeiten des C3W
-finden sich auf dem [Dashboard] (https://dashboard.c3w.at/
+finden sich auf dem [Dashboard](https://dashboard.c3w.at/)
