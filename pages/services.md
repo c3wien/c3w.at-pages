@@ -37,3 +37,7 @@ auf [Github](https://github.com/xwiki-labs/cryptpad).
 ## Tor-Relays
 Zur Stärkung von Anonymität und digitaler Selbstverteidigung gegen Tracking 
 betreibt der C3W Tor-Relays.
+
+## Dashboard
+Alle öffentlichen und C3W-internen Services und Kontaktmöglichkeiten des C3W
+finden sich auf dem [Dashboard](https://dashboard.c3w.at/)

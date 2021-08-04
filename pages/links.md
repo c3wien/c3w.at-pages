@@ -50,7 +50,7 @@ Der C3W setzt sich für die Informationsfreiheit und den kritischen Umgang mit e
 * [epicenter.works](https://epicenter.works/){:target="_blank"} for digital rights - [@epicenter_works](https://twitter.com/epicenter_works){:target="_blank"}
 * Initiative für Netzfreiheit [netzfreiheit.org](https://netzfreiheit.org/){:target="_blank"}
 * quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter [quintessenz.at](http://quintessenz.at){:target="_blank"}
-* [Open Knowledge Austria OKFN](http://okfn.at/){:target="_blank"}
+* [Forum Informationsfreiheit](https://www.informationsfreiheit.at/){:target="_blank"}
 * [Open Data Portal Österreich ODP](https://www.opendataportal.at){:target="_blank"}
 * [Plattform Digitales Österreich (PDÖ)](https://www.digitales.oesterreich.gv.at){:target="_blank"}
 * Beteiligung der BürgerInnen [parlament.gv.at](https://www.parlament.gv.at/PAKT/BB/){:target="_blank"}

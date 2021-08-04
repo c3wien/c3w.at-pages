@@ -14,12 +14,11 @@ Vorratsdatenspeicherung, Videoüberwachung, PRISM, Zugriff auf Konten ohne richt
 
 *Wir denken: Aufklärung und Wissen hilft.*
 
+Der große Zuspruch zur ersten PrivacyWeek des Chaos Computer Club Wien 2016 gab uns recht: Das komplexe Thema „Privatsphäre im digitalen Zeitalter“ beschäftigt uns alle: AnwenderInnen, PädagogInnen, Medien, BürgerInnen und Unternehmen. Deshalb gibt es auch 2021 eine PrivacyWeek.
 
-Der große Zuspruch zur ersten PrivacyWeek des Chaos Computer Club Wien gab uns recht: Das komplexe Thema „Privatsphäre im digitalen Zeitalter“ beschäftigt uns alle: AnwenderInnen, PädagogInnen, Medien, BürgerInnen und Unternehmen. Deshalb gibt es auch 2020 eine PrivacyWeek.
+Vom 25. bis 31. Oktober 2021 geht es um: _Dich_. Eine ganze Woche voll Events, Vorträge, Workshops, Projekte und Aktionen im Spannungsfeld zwischen Technik, Politik, Internet und alltäglichem Leben.
 
-Vom 21. bis 27. Oktober 2019 geht es um: _Dich_. Eine ganze Woche voll Events, Vorträge, Workshops, Projekte und Aktionen im Spannungsfeld zwischen Technik, Politik, Internet und alltäglichem Leben.
-
-Rund um die Big Brother Awards Österreich werden wir euch wieder spannende Vorträge, noch mehr Workshops, Themen- und Fortbildungstage (für Schulen, Developer und Medien) anbieten.
+In der letzten Oktoberwoche werden wir euch wieder spannende Vorträge, noch mehr Workshops, Themen- und Fortbildungstage (für Schulen, Developer und Medien) anbieten. Aufgrund der aktuellen Situation findet auch die PrivacyWeek 2021 ausschließlich online statt. Die Teilnahme ist kostenlos. 
 
 
 # Chaos macht Schule
