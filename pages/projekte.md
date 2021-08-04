@@ -14,11 +14,16 @@ Vorratsdatenspeicherung, Videoüberwachung, PRISM, Zugriff auf Konten ohne richt
 
 *Wir denken: Aufklärung und Wissen hilft.*
 
-Der große Zuspruch zur ersten PrivacyWeek des Chaos Computer Club Wien 2016 gab uns recht: Das komplexe Thema „Privatsphäre im digitalen Zeitalter“ beschäftigt uns alle: AnwenderInnen, PädagogInnen, Medien, BürgerInnen und Unternehmen. Deshalb gibt es auch 2021 eine PrivacyWeek.
+Der große Zuspruch zur ersten PrivacyWeek des Chaos Computer Club Wien 2016 gab uns recht: Das komplexe Thema „Privatsphäre im digitalen Zeitalter“ beschäftigt uns alle: AnwenderInnen, PädagogInnen, Medien, BürgerInnen und Unternehmen. Von 2016 bis 2019 fand die PrivacyWeek im Volkskundemuseum Wien als Präsenzveranstaltung statt. Im zweiten Coronajahr wird die PrivacyWeek erneut vollständig online abgehalten. Dem ehrenamtlichen Team hinter der einwöchigen Konferenz zu den Themen Privatsphäre, Digitalisierung, Auswirkungen von Technik auf die Gesellschaft, Datenschutz und Netzpolitik ist es wichtig, auch in diesen außergewöhnlichen Zeiten eine niederschwellige Online-PrivacyWeek zu bieten, die ein sicherer Hafen und ein Kompass sein will für alle, die sich im Datenmeer verloren sehen.
 
-Vom 25. bis 31. Oktober 2021 geht es um: _Dich_. Eine ganze Woche voll Events, Vorträge, Workshops, Projekte und Aktionen im Spannungsfeld zwischen Technik, Politik, Internet und alltäglichem Leben. x
+Datum: 25. bis 31.10.2021
+Motto: Datenmeer
+Ort: online-only
+Webseite vom letzten Jahr: [Privacy Week](https://privacyweek.at/) (Update in Arbeit)
+Ticketpreis: gratis (Business- & Supportertickets als Spendenoption möglich)
 
-In der letzten Oktoberwoche werden wir euch wieder spannende Vorträge, noch mehr Workshops, Themen- und Fortbildungstage (für Schulen, Developer und Medien) anbieten. Aufgrund der aktuellen Situation findet auch die PrivacyWeek 2021 ausschließlich online statt. Die Teilnahme ist kostenlos. 
+Die Zuschauer:innen können den Veranstaltungen jederzeit per Livestream beiwohnen und über Mastodon, Twitter und eigens angebotene, anonyme Fragenformulare Fragen an die Vortragenden des jeweils laufenden Beitrags stellen. Der Großteil der Vorträge und Panels wird wie immer im Anschluss an die PrivacyWeek auch als Aufzeichnung zur Verfügung stehen. 
+
 
 
 # Chaos macht Schule
