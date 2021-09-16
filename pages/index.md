@@ -8,7 +8,7 @@
 .. previewimage: /assets/images/preview-card.png
 
 <br />
-[![Privacy Week Vienna - eine Veranstaltungsreihe zum Thema Privatsphäre. ](files/images/privacyweek21.png "")](files/images/PW21_Kinospot_15sec_v3_20210910071403.mp4)
+[![Privacy Week Vienna - eine Veranstaltungsreihe zum Thema Privatsphäre. ](files/images/privacyweek21.png "")](files/videos/PW21_Kinospot_15sec_v4_FINAL_50.mp4)
 
 Vom 25. bis 31.10. wird unter dem Titel *„Privacy Week“* ein vielfältiges Programm an Workshops, Vorträgen, Kunst- und Schulprojekten rund um das Thema *„Privatsphäre im digitalen Zeitalter“* angeboten.
 
