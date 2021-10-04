@@ -12,7 +12,7 @@
 
 Vom 25. bis 31.10. wird unter dem Titel *„Privacy Week“* ein vielfältiges Programm an Workshops, Vorträgen, Kunst- und Schulprojekten rund um das Thema *„Privatsphäre im digitalen Zeitalter“* angeboten.
 
-Mehr Infos gibt es unter [www.privacyweek.at](www.privacyweek.at)
+Mehr Infos gibt es unter [www.privacyweek.at](https://www.privacyweek.at)
 
 Die Privacyweek ist eine Veranstaltungsreihe des „Chaos Computer Club Wien (C3W).
 
