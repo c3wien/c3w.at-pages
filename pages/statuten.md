@@ -176,5 +176,9 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 
 ## § 16 Freiwillige Auflösung des Vereins
 1. Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur mit Zweidrittelmehrheit der abgegebenen gültigen Stimmen beschlossen werden.
-2. Diese Generalversammlung hat auch – sofern Vereinsvermögen vorhanden ist – über die Abwicklung zu beschließen. Insbesondere hat sie einen Abwickler zu berufen und Beschluss darüber zu fassen, wem dieser das nach Abdeckung der Passiven verbleibende Vereinsvermögen zu übertragen hat. Dieses Vermögen soll, soweit dies möglich und erlaubt ist, einer oder mehreren gemeinnützigen Organisationen zufallen, die gleiche oder ähnliche Zwecke wie dieser Verein verfolgt, sonst Zwecken der Sozialhilfe.
+2. Die Generalversammlung hat - sofern Vereinsvermögen vorhanden ist - über die Abwicklung zu beschließen. Insbesondere hat sie eine\*n Abwickler\*in zu berufen und Beschluss darüber zu fassen, wem diese\*r das nach Abdeckung der Passiva verbleibende Vereinsvermögen zu übertragen hat.
+3. Der letzte Vereinsvorstand hat die freiwillige Auflösung binnen vier Wochen nach Beschlussfassung der zuständigen Vereinsbehörde schriftlich anzuzeigen.
+
+## § 17 Verwendung des Vereinsvermögens bei Ausscheiden von Mitgliedern, bei Auflösung des Vereins oder bei Wegfall des begünstigten Zwecks
+Bei Auflösung des Vereins oder bei Wegfall des bisherigen begünstigten Vereinszwecks ist das nach Abdeckung der Passiva verbleibende Vereinsvermögen für gemeinnützige oder mildtätige Zwecke im Sinne der §§ 34 ff Bundesabgabenordnung (BAO) zu verwenden. Soweit möglich und erlaubt, soll es dabei Institutionen zufallen, die gleiche oder ähnliche Zwecke wie dieser Verein verfolgen.
 
