@@ -134,7 +134,7 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 3. Die Funktionsperiode des Vorstands beträgt zwei Jahre; Wiederwahl ist möglich. Jede Funktion im Vorstand ist persönlich auszuüben.
 4. Der Vorstand wird von der Obperson, bei Verhinderung der stellvertretenden Person, schriftlich oder mündlich einberufen. Ist auch diese auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
 5. Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und mehr als die Hälfte von ihnen anwesend ist.
-6. Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der Obperson den Ausschlag.
+6. Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der Obperson den Ausschlag. Beschlüsse des Vorstandes sind zu protokollieren.
 7. Den Vorsitz führt die Obperson, bei Verhinderung die stellvertretende Person. Ist auch diese/r verhindert, obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied.
 8. Die Obperson kann Beschlüsse des Vorstandes auch im Umlaufweg einholen, soweit jedes Vorstandsmitglied mit einer Beschlussfassung im Umlaufweg einverstanden ist. Für derartige Beschlüsse gelten die im Abs. 6 angeführten Mehrheitsverhältnisse.
 9. Außer durch den Tod und Ablauf der Funktionsperiode (Abs. 3) erlischt die Funktion eines Vorstandsmitglieds durch Enthebung (Abs. 10) oder Rücktritt (Abs. 11).
