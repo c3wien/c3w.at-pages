@@ -82,7 +82,7 @@ Ehrenmitglieder sind Personen, die im Rahmen der Generalversammlung zu Ehrenmitg
 1. Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt oder durch Ausschluss.
 2. Der Austritt kann jederzeit erfolgen; eine Rückerstattung eines bereits gezahlten Jahresbeitrags erfolgt nicht. Der Austritt muss dem Vorstand schriftlich oder per E-Mail mitgeteilt werden.
 3. Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung, ggf. per E-Mail, unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
-4. Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
+4. Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten oder wegen vereinsschädigenden Verhaltens (beispielsweise eine Verletzung der [Unvereinbarkeitserklärung vom 2017-12-24](https://c3w.at/posts/2017/unvereinbarkeitserklaerung/)) verfügt werden.
 5. Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
 
 ## § 7 Rechte und Pflichten der Mitglieder
