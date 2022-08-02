@@ -160,7 +160,7 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 3. Rechtsgeschäftliche Bevollmächtigungen, den Verein nach außen zu vertreten bzw. für ihn zu zeichnen, können ausschließlich von den in Abs. 2 genannten Vorstandsmitgliedern erteilt werden.
 4. Bei Gefahr im Verzug ist die Obperson berechtigt, auch in Angelegenheiten, die in den Wirkungsbereich der Generalversammlung oder des Vorstands fallen, unter eigener Verantwortung selbständig Anordnungen zu treffen; im Innenverhältnis bedürfen diese jedoch der nachträglichen Genehmigung durch das zuständige Vereinsorgan.
 5. Die Obperson führt den Vorsitz in der Generalversammlung und im Vorstand.
-6. Die SChriftführung führt die Protokolle der Generalversammlung und des Vorstands.
+6. Die Schriftführung führt die Protokolle der Generalversammlung und des Vorstands.
 7. Die Kassa ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
 8. Im Fall der Verhinderung wird an die Stelle der Obperson eine Stellvertretung bestimmt. Der Schriftführung und der Kassa vertreten einander im Verhinderungsfall wechselseitig, wenn es keine in der Generalversammlung festgelegten Stellvertreter gibt.
 9. Der Vorstand ist befugt, zur Führung des täglichen Geschäftsbetriebs eine geschäftsführende Person zu bestellen. Der Umfang der Geschäftsführungsbefugnis und die Reichweite der Vertretungsbevollmächtigung sind im entsprechenden Vorstandsbeschluss und in der Vollmacht genau zu bezeichnen.
