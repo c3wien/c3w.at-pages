@@ -113,7 +113,8 @@ binnen vier Wochen statt.
 6. Bei der Generalversammlung sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen Mitglieder und die Ehrenmitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im Wege einer schriftlichen Bevollmächtigung mit eigenhändiger Unterschrift ist zulässig. [PDF-Formular Stimmdelegation](/files/forms/Stimmdelegation.pdf)
 7. Die Generalversammlung ist ohne Rücksicht auf die Anzahl der Erschienenen beschlussfähig.
 8. Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
-9. Den Vorsitz in der Generalversammlung führt die Obperson, in deren Verhinderung ihre Stellvertreter\*in. Wenn auch diese verhindert ist, so führt das an Jahren älteste anwesende Vorstandsmitglied den Vorsitz.
+9. Auf Antrag von mindestens einem Fünftel der ordentlichen Mitglieder oder der Rechnungsprüfung, sind die Wahlen mittels geheimer Briefwahl durchzuführen. Details regelt eine vom jeweiligen Gremium beschlossene Wahlordnung.
+10. Den Vorsitz in der Generalversammlung führt die Obperson, in deren Verhinderung ihre Stellvertreter\*in. Wenn auch diese verhindert ist, so führt das an Jahren älteste anwesende Vorstandsmitglied den Vorsitz.
 
 ## § 10 Aufgaben der Generalversammlung
 Der Generalversammlung sind folgende Aufgaben vorbehalten:
