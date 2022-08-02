@@ -75,7 +75,7 @@ Ehrenmitglieder sind Personen, die im Rahmen der Generalversammlung zu Ehrenmitg
 
 ## § 5 Erwerb der Mitgliedschaft
 1. Mitglieder des Vereins können alle physischen Personen, sowie juristische Personen und rechtsfähige Personengesellschaften werden. Die Mitgliedsrechte von juristischen Personen als außerordentliche Mitglieder werden durch eine namhaft gemachte natürliche Person wahrgenommen.
-2. Über die Aufnahme von ordentlichen, fördernden und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
+2. Die Aufnahme von ordentlichen, fördernden und außerordentlichen Mitgliedern wird vom Vorstand beschlossen. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
 3. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag durch die Generalversammlung.
 
 ## § 6 Beendigung der Mitgliedschaft
