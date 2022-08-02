@@ -123,7 +123,7 @@ Der Generalversammlung sind folgende Aufgaben vorbehalten:
 3. Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüfer\*innen;
 4. Genehmigung von Rechtsgeschäften zwischen Rechnungsprüfenden und Verein;
 5. Entlastung des Vorstands;
-6. Festsetzung der Höhe der Mitgliedsbeiträge für ordentliche, außerordentliche, Förder- sowie Ehrenmitglieder sowie einer Aufnahmegebühr;
+6. Festsetzung der Höhe der Mitgliedsbeiträge für ordentliche, außerordentliche, Förder- sowie Ehrenmitglieder;
 7. Verleihung und Aberkennung der Ehrenmitgliedschaft;
 8. Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
 9. Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
