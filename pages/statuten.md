@@ -8,11 +8,11 @@
 .. type: text
 .. previewimage: /assets/images/preview-card.png
 
-per 2018-10-18    
+per 2022-07-31    
 
 ## Präambel
 
-Die Informationsgesellschaft unserer Tage ist ohne Computer nicht mehr denkbar. Die Einsatzmöglichkeiten der automatisierten Datenverarbeitung und Datenübermittlung bergen Chancen, aber auch Gefahren für den Einzelnen und für die Gesellschaft. Informations- und Kommunikationstechnologien verändern das Verhältnis Mensch-Maschine und der Menschen untereinander.
+Die Informationsgesellschaft unserer Tage ist ohne Computer nicht mehr denkbar. Die Einsatzmöglichkeiten der automatisierten Datenverarbeitung und Datenübermittlung bergen Chancen, aber auch Gefahren für die Einzelnen und für die Gesellschaft. Informations- und Kommunikationstechnologien verändern das Verhältnis Mensch-Maschine und der Menschen untereinander.
 Der C3W ist eine Gemeinschaft von Menschen, unabhängig von Geschlecht, Alter, Religion oder Weltanschauung, sexueller Orientierung, ethnischer Zugehörigkeit sowie gesellschaftlicher Stellung, die sich grenzüberschreitend für Informationsfreiheit einsetzt, den kritischen Umgang mit elektronischen Medien sowie der Risiken und Nebenwirkungen der elektronischen Kommunikation und die Verbreitung von freien Technologien und Standards und das Wissen um diese Entwicklung fördert.
 
 ## § 1 Name, Sitz und Tätigkeitsbereich
@@ -75,14 +75,14 @@ Ehrenmitglieder sind Personen, die im Rahmen der Generalversammlung zu Ehrenmitg
 
 ## § 5 Erwerb der Mitgliedschaft
 1. Mitglieder des Vereins können alle physischen Personen, sowie juristische Personen und rechtsfähige Personengesellschaften werden. Die Mitgliedsrechte von juristischen Personen als außerordentliche Mitglieder werden durch eine namhaft gemachte natürliche Person wahrgenommen.
-2. Über die Aufnahme von ordentlichen, fördernden und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
+2. Die Aufnahme von ordentlichen, fördernden und außerordentlichen Mitgliedern wird vom Vorstand beschlossen. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
 3. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag durch die Generalversammlung.
 
 ## § 6 Beendigung der Mitgliedschaft
 1. Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt oder durch Ausschluss.
 2. Der Austritt kann jederzeit erfolgen; eine Rückerstattung eines bereits gezahlten Jahresbeitrags erfolgt nicht. Der Austritt muss dem Vorstand schriftlich oder per E-Mail mitgeteilt werden.
 3. Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung, ggf. per E-Mail, unter Setzung einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist. Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hiervon unberührt.
-4. Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
+4. Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer Mitgliedspflichten oder wegen vereinsschädigenden Verhaltens (beispielsweise eine Verletzung der [Unvereinbarkeitserklärung vom 2017-12-24](https://c3w.at/posts/2017/unvereinbarkeitserklaerung/)) verfügt werden.
 5. Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über Antrag des Vorstands beschlossen werden.
 
 ## § 7 Rechte und Pflichten der Mitglieder
@@ -104,39 +104,40 @@ Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§
     1. Beschluss des Vorstands oder der ordentlichen Generalversammlung,
     2. Antrag in Textform, gezeichnet von mindestens einem Zehntel der Mitglieder,
     3. Verlangen der Rechnungsprüfer (§ 21 Abs. 5 erster Satz VereinsG),
-    4. Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs. 5 zweiter Satz VereinsG, § 11 Abs. 2 dritter Satz dieser Statuten),
-    5. Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
+    4. Beschluss eine\*r Rechnungsprüfer\*in (§ 21 Abs. 5 zweiter Satz VereinsG, § 11 Abs. 2 dritter Satz dieser Statuten),
+    5. Beschluss eines/einer gerichtlich bestellten Kurator\*in (§ 11 Abs. 2 letzter Satz dieser Statuten)
 binnen vier Wochen statt.
-3. Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich oder per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e).
+3. Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich oder per E-Mail (an die vom Mitglied dem Verein bekanntgegebene E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c), durch die Rechnungsprüfenden/ein\*e Rechnungsprüfer\*in (Abs. 2 lit. d) oder durch eine\*n gerichtlich bestellte Kurator\*in (Abs. 2 lit. e).
 4. Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand in Schriftform einzureichen.
 5. Gültige Beschlüsse – ausgenommen solche über einen Antrag auf Einberufung einer außerordentlichen Generalversammlung – können nur zur Tagesordnung gefasst werden.
 6. Bei der Generalversammlung sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen Mitglieder und die Ehrenmitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im Wege einer schriftlichen Bevollmächtigung mit eigenhändiger Unterschrift ist zulässig. [PDF-Formular Stimmdelegation](/files/forms/Stimmdelegation.pdf)
 7. Die Generalversammlung ist ohne Rücksicht auf die Anzahl der Erschienenen beschlussfähig.
 8. Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
-9. Den Vorsitz in der Generalversammlung führt der/die Obmann/Obfrau, in dessen/deren Verhinderung sein/e/ihr/e Stellvertreter/in. Wenn auch diese/r verhindert ist, so führt das an Jahren älteste anwesende Vorstandsmitglied den Vorsitz.
+9. Auf Antrag von mindestens einem Fünftel der ordentlichen Mitglieder oder der Rechnungsprüfung, sind die Wahlen mittels geheimer Briefwahl durchzuführen. Details regelt eine vom jeweiligen Gremium beschlossene Wahlordnung.
+10. Den Vorsitz in der Generalversammlung führt die Obperson, in deren Verhinderung ihre Stellvertreter\*in. Wenn auch diese verhindert ist, so führt das an Jahren älteste anwesende Vorstandsmitglied den Vorsitz.
 
 ## § 10 Aufgaben der Generalversammlung
 Der Generalversammlung sind folgende Aufgaben vorbehalten:
 
 1. Beschlussfassung über den Voranschlag;
 2. Entgegennahme und Genehmigung des Rechenschaftsberichts und des Rechnungsabschlusses unter Einbindung der Rechnungsprüfer;
-3. Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüfer;
-4. Genehmigung von Rechtsgeschäften zwischen Rechnungsprüfern und Verein;
+3. Wahl und Enthebung der Mitglieder des Vorstands und der Rechnungsprüfer\*innen;
+4. Genehmigung von Rechtsgeschäften zwischen Rechnungsprüfenden und Verein;
 5. Entlastung des Vorstands;
-6. Festsetzung der Höhe der Mitgliedsbeiträge für ordentliche, außerordentliche, Förder- sowie Ehrenmitglieder sowie einer Aufnahmegebühr;
+6. Festsetzung der Höhe der Mitgliedsbeiträge für ordentliche, außerordentliche, Förder- sowie Ehrenmitglieder;
 7. Verleihung und Aberkennung der Ehrenmitgliedschaft;
 8. Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
 9. Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
 
 ## § 11 Vorstand
-1. Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obmann/Obfrau, Schriftführer/in sowie Kassier/in. Weitere Mitglieder des Vorstandes können in der Generalversammlung gewählt werden.
-2. Der Vorstand wird von der Generalversammlung gewählt. Der Vorstand hat bei Ausscheiden eines gewählten Mitglieds das Recht, an seine Stelle ein anderes wählbares Mitglied zu kooptieren, wozu die nachträgliche Genehmigung in der nächstfolgenden Generalversammlung einzuholen ist. Fällt der Vorstand ohne Selbstergänzung durch Kooptierung überhaupt oder auf unvorhersehbar lange Zeit aus, so ist jeder Rechnungsprüfer verpflichtet, unverzüglich eine außerordentliche Generalversammlung zum Zweck der Neuwahl eines Vorstands einzuberufen. Sollten auch die Rechnungsprüfer handlungsunfähig sein, hat jedes ordentliche Mitglied, das die Notsituation erkennt, unverzüglich die Bestellung eines Kurators beim zuständigen Gericht zu beantragen, der umgehend eine außerordentliche Generalversammlung einzuberufen hat.
+1. Der Vorstand besteht aus mindestens drei Mitgliedern, und zwar aus Obperson, Schriftführer\*in sowie Kassier\*in (die im Folgenden als "Kassa" bezeichnet wird). Weitere Mitglieder des Vorstandes können in der Generalversammlung gewählt werden.
+2. Der Vorstand wird von der Generalversammlung gewählt. Der Vorstand hat bei Ausscheiden eines gewählten Mitglieds das Recht, an seine Stelle ein anderes wählbares Mitglied zu kooptieren, wozu die nachträgliche Genehmigung in der nächstfolgenden Generalversammlung einzuholen ist. Fällt der Vorstand ohne Selbstergänzung durch Kooptierung überhaupt oder auf unvorhersehbar lange Zeit aus, so ist jede\*r Rechnungsprüfende verpflichtet, unverzüglich eine außerordentliche Generalversammlung zum Zweck der Neuwahl eines Vorstands einzuberufen. Sollten auch die Rechnungsprüfenden handlungsunfähig sein, hat jedes ordentliche Mitglied, das die Notsituation erkennt, unverzüglich die Bestellung eine\*r Kurator\*in beim zuständigen Gericht zu beantragen, welche\*r umgehend eine außerordentliche Generalversammlung einzuberufen hat.
 3. Die Funktionsperiode des Vorstands beträgt zwei Jahre; Wiederwahl ist möglich. Jede Funktion im Vorstand ist persönlich auszuüben.
-4. Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung von seinem/seiner/ihrem/ihrer Stellvertreter/in, schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
+4. Der Vorstand wird von der Obperson, bei Verhinderung der stellvertretenden Person, schriftlich oder mündlich einberufen. Ist auch diese auf unvorhersehbar lange Zeit verhindert, darf jedes sonstige Vorstandsmitglied den Vorstand einberufen.
 5. Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und mehr als die Hälfte von ihnen anwesend ist.
-6. Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des/der Vorsitzenden den Ausschlag.
-7. Den Vorsitz führt der/die Obmann/Obfrau, bei Verhinderung sein/e/ihr/e Stellvertreter/in. Ist auch diese/r verhindert, obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied.
-8. Der/Die Obmann/Obfrau kann Beschlüsse des Vorstandes auch im Umlaufweg einholen, soweit jedes Vorstandsmitglied mit einer Beschlussfassung im Umlaufweg einverstanden ist. Für derartige Beschlüsse gelten die im Abs. 6 angeführten Mehrheitsverhältnisse.
+6. Der Vorstand fasst seine Beschlüsse mit einfacher Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme der Obperson den Ausschlag. Beschlüsse des Vorstandes sind zu protokollieren.
+7. Den Vorsitz führt die Obperson, bei Verhinderung die stellvertretende Person. Ist auch diese/r verhindert, obliegt der Vorsitz dem an Jahren ältesten anwesenden Vorstandsmitglied.
+8. Die Obperson kann Beschlüsse des Vorstandes auch im Umlaufweg einholen, soweit jedes Vorstandsmitglied mit einer Beschlussfassung im Umlaufweg einverstanden ist. Für derartige Beschlüsse gelten die im Abs. 6 angeführten Mehrheitsverhältnisse.
 9. Außer durch den Tod und Ablauf der Funktionsperiode (Abs. 3) erlischt die Funktion eines Vorstandsmitglieds durch Enthebung (Abs. 10) oder Rücktritt (Abs. 11).
 10. Die Generalversammlung kann jederzeit den gesamten Vorstand oder einzelne seiner Mitglieder entheben. Die Enthebung tritt mit Bestellung des neuen Vorstands bzw Vorstandsmitglieds in Kraft.
 11. Die Vorstandsmitglieder können jederzeit schriftlich ihren Rücktritt erklären. Die Rücktrittserklärung ist an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalversammlung zu richten. Der Rücktritt wird erst mit Wahl bzw Kooptierung (Abs. 2) eines Nachfolgers wirksam.
@@ -154,27 +155,31 @@ Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im 
 8. Entscheidung über den Einsatz der materiellen und ideellen Mittel zur Erreichung des Vereinszwecks.
 
 ## § 13 Besondere Obliegenheiten einzelner Vorstandsmitglieder
-1. Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins. Der/die Schriftführer/in unterstützt den/die Obmann/Obfrau bei der Führung der Vereinsgeschäfte.
-2. Der/die Obmann/Obfrau vertritt den Verein nach außen. Schriftliche Ausfertigungen des Vereins bedürfen zu ihrer Gültigkeit der Unterschriften des/der Obmanns/Obfrau und des Schriftführers/der Schriftführerin, in Geldangelegenheiten (vermögenswerte Dispositionen) des/der Obmanns/Obfrau und des Kassiers/der Kassierin. Rechtsgeschäfte zwischen Vorstandsmitgliedern und Verein bedürfen der Zustimmung eines anderen Vorstandsmitglieds.
+1. Die Obperson führt die laufenden Geschäfte des Vereins. Die Schriftführung unterstützt die Obperson bei der Führung der Vereinsgeschäfte.
+2. Die Obperson vertritt den Verein nach außen. Schriftliche Ausfertigungen des Vereins bedürfen zu ihrer Gültigkeit der Unterschriften der Obperson und der Schriftführung, in Geldangelegenheiten (vermögenswerte Dispositionen) der Obperson und der Kassa. Rechtsgeschäfte zwischen Vorstandsmitgliedern und Verein bedürfen der Zustimmung eines anderen Vorstandsmitglieds.
 3. Rechtsgeschäftliche Bevollmächtigungen, den Verein nach außen zu vertreten bzw. für ihn zu zeichnen, können ausschließlich von den in Abs. 2 genannten Vorstandsmitgliedern erteilt werden.
-4. Bei Gefahr im Verzug ist der/die Obmann/Obfrau berechtigt, auch in Angelegenheiten, die in den Wirkungsbereich der Generalversammlung oder des Vorstands fallen, unter eigener Verantwortung selbständig Anordnungen zu treffen; im Innenverhältnis bedürfen diese jedoch der nachträglichen Genehmigung durch das zuständige Vereinsorgan.
-5. Der/die Obmann/Obfrau führt den Vorsitz in der Generalversammlung und im Vorstand.
-6. Der/die Schriftführer/in führt die Protokolle der Generalversammlung und des Vorstands.
-7. Der/die Kassier/in ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
-8. Im Fall der Verhinderung wird an die Stelle des/der Obmanns/Obfrau ein/e Stellvertreter/in bestimmt. Der Schriftführer/die Schriftführerin und der Kassier/die Kassierin vertreten einander im Verhinderungsfall wechselseitig, wenn es keine in der Generalversammlung festgelegten Stellvertreter gibt.
-9. Der Vorstand ist befugt, zur Führung des täglichen Geschäftsbetriebs eine/n Geschäftsführer/in zu bestellen. Der Umfang der Geschäftsführungsbefugnis und die Reichweite der Vertretungsbevollmächtigung sind im entsprechenden Vorstandsbeschluss und in der Vollmacht genau zu bezeichnen.
+4. Bei Gefahr im Verzug ist die Obperson berechtigt, auch in Angelegenheiten, die in den Wirkungsbereich der Generalversammlung oder des Vorstands fallen, unter eigener Verantwortung selbständig Anordnungen zu treffen; im Innenverhältnis bedürfen diese jedoch der nachträglichen Genehmigung durch das zuständige Vereinsorgan.
+5. Die Obperson führt den Vorsitz in der Generalversammlung und im Vorstand.
+6. Die Schriftführung führt die Protokolle der Generalversammlung und des Vorstands.
+7. Die Kassa ist für die ordnungsgemäße Geldgebarung des Vereins verantwortlich.
+8. Im Fall der Verhinderung wird an die Stelle der Obperson eine Stellvertretung bestimmt. Der Schriftführung und der Kassa vertreten einander im Verhinderungsfall wechselseitig, wenn es keine in der Generalversammlung festgelegten Stellvertreter gibt.
+9. Der Vorstand ist befugt, zur Führung des täglichen Geschäftsbetriebs eine geschäftsführende Person zu bestellen. Der Umfang der Geschäftsführungsbefugnis und die Reichweite der Vertretungsbevollmächtigung sind im entsprechenden Vorstandsbeschluss und in der Vollmacht genau zu bezeichnen.
 
-## § 14 Rechnungsprüfer
-1. Zwei Rechnungsprüfer werden von der Generalversammlung auf die Dauer von 2 Jahren gewählt. Wiederwahl ist möglich. Die Rechnungsprüfer dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Prüfung ist.
-2. Den Rechnungsprüfern obliegt die laufende Geschäftskontrolle sowie die Prüfung der Finanzgebarung des Vereins im Hinblick auf die Ordnungsmäßigkeit der Rechnungslegung und die statutengemäße Verwendung der Mittel. Der Vorstand hat den Rechnungsprüfern die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Die Rechnungsprüfer haben dem Vorstand über das Ergebnis der Prüfung zu berichten.
-3. Rechtsgeschäfte zwischen Rechnungsprüfern und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die Rechnungsprüfer die Bestimmungen des § 11 Abs. 9 bis 11 sinngemäß.
+## § 14 Rechnungsprüfende
+1. Zwei Rechnungsprüfende werden von der Generalversammlung auf die Dauer von 2 Jahren gewählt. Wiederwahl ist möglich. Die Rechnungsprüfenden dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Prüfung ist.
+2. Den Rechnungsprüfenden obliegt die laufende Geschäftskontrolle sowie die Prüfung der Finanzgebarung des Vereins im Hinblick auf die Ordnungsmäßigkeit der Rechnungslegung und die statutengemäße Verwendung der Mittel. Der Vorstand hat den Rechnungsprüfenden die erforderlichen Unterlagen vorzulegen und die erforderlichen Auskünfte zu erteilen. Die Rechnungsprüfenden haben dem Vorstand über das Ergebnis der Prüfung zu berichten.
+3. Rechtsgeschäfte zwischen Rechnungsprüfenden und Verein bedürfen der Genehmigung durch die Generalversammlung. Im Übrigen gelten für die Rechnungsprüfenden die Bestimmungen des § 11 Abs. 9 bis 11 sinngemäß.
 
 ## § 15 Schiedsgericht
 1. Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne Schiedsgericht berufen. Es ist eine „Schlichtungseinrichtung“ im Sinne des Vereinsgesetzes 2002 und kein Schiedsgericht nach den §§ 577 ff ZPO.
-2. Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichter binnen weiterer 14 Tage ein drittes ordentliches Mitglied zum/zur Vorsitzenden des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
+2. Das Schiedsgericht setzt sich aus drei ordentlichen Vereinsmitgliedern zusammen. Es wird derart gebildet, dass ein Streitteil dem Vorstand ein Mitglied als Schiedsrichter schriftlich namhaft macht. Über Aufforderung durch den Vorstand binnen sieben Tagen macht der andere Streitteil innerhalb von 14 Tagen seinerseits ein Mitglied des Schiedsgerichts namhaft. Nach Verständigung durch den Vorstand innerhalb von sieben Tagen wählen die namhaft gemachten Schiedsrichter\*innen binnen weiterer 14 Tage ein drittes ordentliches Mitglied als Vorsitzende\*n des Schiedsgerichts. Bei Stimmengleichheit entscheidet unter den Vorgeschlagenen das Los. Die Mitglieder des Schiedsgerichts dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören, dessen Tätigkeit Gegenstand der Streitigkeit ist.
 3. Das Schiedsgericht fällt seine Entscheidung nach Gewährung beiderseitigen Gehörs bei Anwesenheit aller seiner Mitglieder mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und Gewissen. Seine Entscheidungen sind vereinsintern endgültig.
 
 ## § 16 Freiwillige Auflösung des Vereins
 1. Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur mit Zweidrittelmehrheit der abgegebenen gültigen Stimmen beschlossen werden.
-2. Diese Generalversammlung hat auch – sofern Vereinsvermögen vorhanden ist – über die Abwicklung zu beschließen. Insbesondere hat sie einen Abwickler zu berufen und Beschluss darüber zu fassen, wem dieser das nach Abdeckung der Passiven verbleibende Vereinsvermögen zu übertragen hat. Dieses Vermögen soll, soweit dies möglich und erlaubt ist, einer oder mehreren gemeinnützigen Organisationen zufallen, die gleiche oder ähnliche Zwecke wie dieser Verein verfolgt, sonst Zwecken der Sozialhilfe.
+2. Die Generalversammlung hat - sofern Vereinsvermögen vorhanden ist - über die Abwicklung zu beschließen. Insbesondere hat sie eine\*n Abwickler\*in zu berufen und Beschluss darüber zu fassen, wem diese\*r das nach Abdeckung der Passiva verbleibende Vereinsvermögen zu übertragen hat.
+3. Der letzte Vereinsvorstand hat die freiwillige Auflösung binnen vier Wochen nach Beschlussfassung der zuständigen Vereinsbehörde schriftlich anzuzeigen.
+
+## § 17 Verwendung des Vereinsvermögens bei Ausscheiden von Mitgliedern, bei Auflösung des Vereins oder bei Wegfall des begünstigten Zwecks
+Bei Auflösung des Vereins oder bei Wegfall des bisherigen begünstigten Vereinszwecks ist das nach Abdeckung der Passiva verbleibende Vereinsvermögen für gemeinnützige oder mildtätige Zwecke im Sinne der §§ 34 ff Bundesabgabenordnung (BAO) zu verwenden. Soweit möglich und erlaubt, soll es dabei Institutionen zufallen, die gleiche oder ähnliche Zwecke wie dieser Verein verfolgen.
 
